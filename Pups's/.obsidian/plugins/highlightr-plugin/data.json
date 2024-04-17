@@ -1,0 +1,10 @@
+{
+  "highlighterStyle": "rounded",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "green": "#80B265"
+  },
+  "highlighterOrder": [
+    "green"
+  ]
+}

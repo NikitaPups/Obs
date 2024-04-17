@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "214db2c218da5e27",
+    "type": "split",
+    "children": [
+      {
+        "id": "b93a85edb8b87ae9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9bc6d4837004152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bea1529985ade4c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20240417.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "422cfc63ccae0664",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fcf4d1a54034201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "751b248897dbe0e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "fb1e6756e1a8218c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "section:()",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a6f7f472c66bdfd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "bf68e83950daa576",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9b1731176ca9634",
+        "type": "tabs",
+        "dimension": 37.725823591923486,
+        "children": [
+          {
+            "id": "92b48a2a41771e90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4452afb3b24eb42e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2941bc88899b3cd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "940966413498c866",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b28e45c468e034a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md"
+              }
+            }
+          },
+          {
+            "id": "ea6c8ad283ea8dbc",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6fd38fa4c60b59a3",
+        "type": "tabs",
+        "dimension": 62.27417640807651,
+        "children": [
+          {
+            "id": "6e6f06fbd1a35126",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c9bc6d4837004152",
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20240417.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Selfish/Mine.md",
+    "Selfish/Pres.md",
+    "тз_главная_смена_v01.docx",
+    "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
+    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
+    "Beorg/API's/API Авто, мой для загрузки.md",
+    "Beorg/API's/Тестовый API УБРИР 100 символов.md",
+    "Day Planners/Day Planner-20240416.md",
+    "Beorg/Projects/уБрИр/Убрир АВТО/UBrir AUTO Glosarii.md",
+    "Beorg/API's/Demo 04.04.24 -26.04.md",
+    "Beorg/API's/Demo 04.04.24 -19.04.md",
+    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Задачи убрир ИП.md",
+    "Beorg/Projects/уБрИр/Убрир АВТО/Глоссарий.md",
+    "Day Planners/Day Planner-20240415.md",
+    "Beorg/API's/Пробный API.md",
+    "Day Planners/Day Planner-20240414.md",
+    "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md",
+    "Beorg/Projects/уБрИр/Убрири КК/Убрир кк.md",
+    "Beorg/Projects/уБрИр/Убрир АВТО/УБРИР Авто.md",
+    "Beorg/Projects/уБрИр/Убрири КК",
+    "УБРИРИ",
+    "Глоссарий КК_4.xlsx.md",
+    "Beorg/Projects/уБрИр/Убрир АВТО/Анкета ОКАМИ.pdf",
+    "Beorg/Projects/уБрИр/Убрир АВТО/~$Глоссарий КК_4.xlsx",
+    "Beorg/Projects/уБрИр/Убрир АВТО/УБРир АВТо Бюджет.md",
+    "~$Глоссарий КК_4.xlsx",
+    "Beorg/Projects/уБрИр/Убрир АВТО/Глоссарий КК_4.xlsx",
+    "Beorg 2/Projects/RedOcean/Созвон 11.04.md",
+    "Beorg 2/Projects/RedOcean",
+    "Beorg 2/API's/Demo 04.04.24 -19.04.md",
+    "Beorg 2/API's/La Vivion - 22.04.24.md",
+    "Beorg 2/Projects",
+    "Beorg 2/API's",
+    "Untitled.canvas"
+  ]
+}

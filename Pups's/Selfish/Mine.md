@@ -1,0 +1,6 @@
+- [ ] Orange pi 
+- [x] Ubunta  linux
+- [x] balena etcher
+- [x] CopyQ 
+- [ ] Git auto sync
+- [ ] 1 test
