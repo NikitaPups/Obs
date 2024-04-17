@@ -2,9 +2,9 @@
   "highlighterStyle": "rounded",
   "highlighterMethods": "inline-styles",
   "highlighters": {
-    "green": "#80B265"
+    "Green": "#A2D278"
   },
   "highlighterOrder": [
-    "green"
+    "Green"
   ]
 }
