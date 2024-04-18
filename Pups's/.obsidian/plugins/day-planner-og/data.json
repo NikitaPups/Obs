@@ -9,15 +9,15 @@
     }
   ],
   "completePastItems": true,
-  "circularProgress": false,
-  "nowAndNextInStatusBar": false,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
   "showTaskNotification": false,
   "timelineZoomLevel": 1,
   "timelineIcon": "calendar-with-checkmark",
   "plannerLabel": "Day Planner",
   "breakLabel": "BREAK",
   "endLabel": "END",
-  "markCurrent": false,
+  "markCurrent": true,
   "correctLabels": true,
   "preserveValues": "-"
 }
