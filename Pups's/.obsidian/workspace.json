@@ -52,7 +52,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -92,7 +92,7 @@
       {
         "id": "a9b1731176ca9634",
         "type": "tabs",
-        "dimension": 31.81377303588749,
+        "dimension": 30.24948024948025,
         "children": [
           {
             "id": "92b48a2a41771e90",
@@ -166,7 +166,7 @@
       {
         "id": "8f775bcbd8fcefb9",
         "type": "tabs",
-        "dimension": 30.164888457807955,
+        "dimension": 32.640332640332645,
         "children": [
           {
             "id": "974662937cbfbf20",
@@ -181,7 +181,7 @@
       {
         "id": "6fd38fa4c60b59a3",
         "type": "tabs",
-        "dimension": 38.02133850630456,
+        "dimension": 37.11018711018711,
         "children": [
           {
             "id": "6e6f06fbd1a35126",
@@ -212,23 +212,25 @@
   },
   "active": "bea1529985ade4c8",
   "lastOpenFiles": [
+    "Beorg/API's/Тестовый API УБРИР 100 символов.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/Projects/уБрИр/Убрир АВТО/УБРИР Авто.md",
+    "Beorg/Projects/уБрИр/Убрири КК/Убрир кк.md",
+    "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md",
+    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
     "Day Planners/Day Planner-20240419.md",
+    "Beorg/API's/Demo 04.04.24 -26.04.md",
     "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
     "Beorg/API's/La Vivion - 22.04.24.md",
-    "Beorg/Projects/уБрИр/Убрири КК/Убрир кк.md",
     "Day Planners/Day Planner-20240418.md",
     "Beorg/API's/Test API.md",
-    "Beorg/API's/Demo 04.04.24 -26.04.md",
     "Beorg/API's/API Авто, мой для загрузки.md",
-    "Beorg/API's/Тестовый API УБРИР 100 символов.md",
     "Beorg/API's/Пробный API.md",
     "Beorg/Projects/АО «НИИМЭ».md",
     "Day Planners/Day Planner-20240417.md",
     "Selfish/Mine.md",
     "Selfish/Pres.md",
     "тз_главная_смена_v01.docx",
-    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
     "Day Planners/Day Planner-20240416.md",
     "Beorg/Projects/уБрИр/Убрир АВТО/UBrir AUTO Glosarii.md",
     "Beorg/API's/Demo 04.04.24 -19.04.md",
@@ -236,8 +238,6 @@
     "Beorg/Projects/уБрИр/Убрир АВТО/Глоссарий.md",
     "Day Planners/Day Planner-20240415.md",
     "Day Planners/Day Planner-20240414.md",
-    "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md",
-    "Beorg/Projects/уБрИр/Убрир АВТО/УБРИР Авто.md",
     "Beorg/Projects/уБрИр/Убрири КК",
     "УБРИРИ",
     "Глоссарий КК_4.xlsx.md",
