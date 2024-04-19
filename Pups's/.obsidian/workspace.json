@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -91,7 +92,7 @@
       {
         "id": "a9b1731176ca9634",
         "type": "tabs",
-        "dimension": 37.725823591923486,
+        "dimension": 31.81377303588749,
         "children": [
           {
             "id": "92b48a2a41771e90",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "file": "Day Planners/Day Planner-20240419.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "file": "Day Planners/Day Planner-20240419.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md"
+                "file": "Day Planners/Day Planner-20240419.md"
               }
             }
           },
@@ -163,9 +164,24 @@
         "currentTab": 1
       },
       {
+        "id": "8f775bcbd8fcefb9",
+        "type": "tabs",
+        "dimension": 30.164888457807955,
+        "children": [
+          {
+            "id": "974662937cbfbf20",
+            "type": "leaf",
+            "state": {
+              "type": "Timer",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "6fd38fa4c60b59a3",
         "type": "tabs",
-        "dimension": 62.27417640807651,
+        "dimension": 38.02133850630456,
         "children": [
           {
             "id": "6e6f06fbd1a35126",
@@ -179,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,15 +206,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "timer:Open timer": false
     }
   },
-  "active": "c9bc6d4837004152",
+  "active": "bea1529985ade4c8",
   "lastOpenFiles": [
-    "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Beorg/API's/La Vivion - 22.04.24.md",
     "Day Planners/Day Planner-20240419.md",
+    "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
+    "Beorg/API's/La Vivion - 22.04.24.md",
     "Beorg/Projects/уБрИр/Убрири КК/Убрир кк.md",
     "Day Planners/Day Planner-20240418.md",
     "Beorg/API's/Test API.md",

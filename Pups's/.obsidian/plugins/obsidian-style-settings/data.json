@@ -1,7 +1,6 @@
 {
-  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-teal",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
   "anuppuccin-theme-settings@@anp-autohide-titlebar": true,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
@@ -27,5 +26,9 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": false,
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": false,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": false,
-  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": false
+  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": false,
+  "anuppuccin-theme-settings@@anp-decoration-toggle": false,
+  "anuppuccin-theme-settings@@anp-toggle-preview": false,
+  "anuppuccin-theme-settings@@anp-kanban-hide-card-menus": false,
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-teal"
 }
