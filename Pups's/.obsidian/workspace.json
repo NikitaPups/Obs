@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20240422.md",
+                "file": "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Письмо Елене 22.04.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md",
+                "file": "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -104,7 +104,7 @@
       {
         "id": "a9b1731176ca9634",
         "type": "tabs",
-        "dimension": 30.249480249480246,
+        "dimension": 30.254476908576816,
         "children": [
           {
             "id": "92b48a2a41771e90",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md",
+                "file": "Day Planners/Day Planner-20240422.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md",
+                "file": "Day Planners/Day Planner-20240422.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md"
+                "file": "Day Planners/Day Planner-20240422.md"
               }
             }
           },
@@ -178,7 +178,7 @@
       {
         "id": "8f775bcbd8fcefb9",
         "type": "tabs",
-        "dimension": 32.640332640332645,
+        "dimension": 30.16022620169651,
         "children": [
           {
             "id": "974662937cbfbf20",
@@ -193,7 +193,7 @@
       {
         "id": "6fd38fa4c60b59a3",
         "type": "tabs",
-        "dimension": 37.11018711018711,
+        "dimension": 39.58529688972667,
         "children": [
           {
             "id": "6e6f06fbd1a35126",
@@ -222,17 +222,19 @@
       "timer:Open timer": false
     }
   },
-  "active": "46b079cf6b85420c",
+  "active": "751b248897dbe0e0",
   "lastOpenFiles": [
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Beorg/Projects/уБрИр/Убрир Правки и вопросы/уБрир Правки и вопросы.md",
-    "Day Planners/Day Planner-20240422.md",
+    "Day Planners/Day Planner-20240421.md",
+    "Beorg/API's/Demo 04.04.24 -26.04.md",
+    "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
     "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Письмо Елене 22.04.md",
+    "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md",
+    "Day Planners/Day Planner-20240422.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Старая версия загружаемого шаблона .pdf",
     "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Новая версия загружаемого шаблона.pdf",
     "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/уБрИр/Убрир Правки и вопросы",
-    "Day Planners/Day Planner-20240421.md",
     "Day Planners/Day Planner-20240419.md",
     "Day Planners/Day Planner-20240420.md",
     "Beorg/Projects/уБрИр/Убрири ККK/Убрир кк.md",
@@ -240,8 +242,6 @@
     "Beorg/API's/Тестовый API УБРИР 100 символов.md",
     "Beorg/Projects/уБрИр/Убрир АВТО/УБРИР Авто.md",
     "Beorg/Projects/уБрИр/Убрири КК/Убрир кк.md",
-    "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md",
-    "Beorg/API's/Demo 04.04.24 -26.04.md",
     "Beorg/API's/La Vivion - 22.04.24.md",
     "Day Planners/Day Planner-20240418.md",
     "Beorg/API's/Test API.md",
