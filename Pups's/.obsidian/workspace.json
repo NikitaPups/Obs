@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selfish/Mine.md",
+                "file": "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Письмо Елене 22.04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46b079cf6b85420c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beorg/Projects/уБрИр/Убрир Правки и вопросы/уБрир Правки и вопросы.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20240419.md",
+                "file": "Day Planners/Day Planner-20240422.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -91,7 +104,7 @@
       {
         "id": "a9b1731176ca9634",
         "type": "tabs",
-        "dimension": 30.249480249480246,
+        "dimension": 30.24948024948025,
         "children": [
           {
             "id": "92b48a2a41771e90",
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selfish/Mine.md",
+                "file": "Day Planners/Day Planner-20240422.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selfish/Mine.md",
+                "file": "Day Planners/Day Planner-20240422.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selfish/Mine.md"
+                "file": "Day Planners/Day Planner-20240422.md"
               }
             }
           },
@@ -209,19 +222,24 @@
       "timer:Open timer": false
     }
   },
-  "active": "c9bc6d4837004152",
+  "active": "bea1529985ade4c8",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20240419.md",
-    "Day Planners/Day Planner-20240421.md",
-    "Selfish/Mine.md",
+    "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Письмо Елене 22.04.md",
+    "Beorg/Projects/уБрИр/Убрир Правки и вопросы/уБрир Правки и вопросы.md",
+    "Day Planners/Day Planner-20240422.md",
+    "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Старая версия загружаемого шаблона .pdf",
+    "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Новая версия загружаемого шаблона.pdf",
+    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/Projects/уБрИр/Убрир Правки и вопросы",
+    "Day Planners/Day Planner-20240421.md",
+    "Day Planners/Day Planner-20240419.md",
     "Day Planners/Day Planner-20240420.md",
     "Beorg/Projects/уБрИр/Убрири ККK/Убрир кк.md",
-    "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
-    "Day Planners/Day Planner-20240422.md",
-    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
+    "Beorg/Projects/уБрИр/Убрири ККK",
     "Beorg/API's/Тестовый API УБРИР 100 символов.md",
     "Beorg/Projects/уБрИр/Убрир АВТО/УБРИР Авто.md",
+    "Beorg/Projects/уБрИр/Убрири КК/Убрир кк.md",
     "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md",
     "Beorg/API's/Demo 04.04.24 -26.04.md",
     "Beorg/API's/La Vivion - 22.04.24.md",
@@ -231,22 +249,16 @@
     "Beorg/API's/Пробный API.md",
     "Beorg/Projects/АО «НИИМЭ».md",
     "Day Planners/Day Planner-20240417.md",
+    "Selfish/Mine.md",
     "Selfish/Pres.md",
     "тз_главная_смена_v01.docx",
     "Day Planners/Day Planner-20240416.md",
     "Beorg/Projects/уБрИр/Убрир АВТО/UBrir AUTO Glosarii.md",
-    "Beorg/API's/Demo 04.04.24 -19.04.md",
-    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Задачи убрир ИП.md",
-    "Beorg/Projects/уБрИр/Убрир АВТО/Глоссарий.md",
-    "Beorg/Projects/уБрИр/Убрири ККK",
+    "Beorg/Projects/уБрИр/Убрири КК",
     "УБРИРИ",
     "Beorg/Projects/уБрИр/Убрир АВТО/Анкета ОКАМИ.pdf",
     "Beorg/Projects/уБрИр/Убрир АВТО/~$Глоссарий КК_4.xlsx",
     "~$Глоссарий КК_4.xlsx",
-    "Beorg/Projects/уБрИр/Убрир АВТО/Глоссарий КК_4.xlsx",
-    "Beorg 2/Projects/RedOcean",
-    "Beorg 2/Projects",
-    "Beorg 2/API's",
     "Untitled.canvas"
   ]
 }
