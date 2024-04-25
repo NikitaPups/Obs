@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20240425.md",
+                "file": "Selfish/Mine.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20240425.md",
+                "file": "Selfish/Mine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20240425.md",
+                "file": "Selfish/Mine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20240425.md"
+                "file": "Selfish/Mine.md"
               }
             }
           },
@@ -212,8 +212,8 @@
   },
   "active": "bea1529985ade4c8",
   "lastOpenFiles": [
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Day Planners/Day Planner-20240425.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Day Planners/Day Planner-20240424.md",
     "Beorg/API's/Убрири ТОкени.md",
     "Beorg/API's/Пробный API.md",
