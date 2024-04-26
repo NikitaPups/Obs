@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/La Vivion/La vivion Бюджет промо.md",
+                "file": "Beorg/API's/Убрири ТОкени.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/La Vivion/La vivion Бюджет промо.md",
+                "file": "Beorg/API's/Убрири ТОкени.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/La Vivion/La vivion Бюджет промо.md",
+                "file": "Beorg/API's/Убрири ТОкени.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/La Vivion/La vivion Бюджет промо.md"
+                "file": "Beorg/API's/Убрири ТОкени.md"
               }
             }
           },
@@ -211,10 +211,12 @@
   },
   "active": "c9bc6d4837004152",
   "lastOpenFiles": [
-    "Beorg/Projects/La Vivion/La Vivion Общ..md",
-    "Beorg/Projects/La Vivion/La vivion Бюджет промо.md",
-    "Beorg/Projects/Главная смена - Кадры/Главная смена бюджет.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
+    "Day Planners/Day Planner-20240425.md",
+    "Beorg/Projects/La Vivion/La vivion Бюджет промо.md",
+    "Beorg/Projects/La Vivion/La Vivion Общ..md",
+    "Beorg/Projects/Главная смена - Кадры/Главная смена бюджет.md",
     "Beorg/Projects/уБрИр/Убрири ККK/Убрир кк.md",
     "Beorg/API's/Test API.md",
     "Beorg/API's/Пробный API.md",
@@ -227,7 +229,6 @@
     "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Старая версия загружаемого шаблона .pdf",
     "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Задачи убрир ИП.md",
     "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Убрир ИП Бюджет.md",
-    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК бюджет.md",
     "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md",
     "Beorg/Projects/уБрИр/УБРИР дДу.ДкП/ДДу Дкп.md",
@@ -235,7 +236,6 @@
     "Beorg/Projects/уБрИр/Убрир АВТО/Анкета ОКАМИ.pdf",
     "Beorg/Projects/уБрИр/Убрир АВТО/УБРир АВТо Бюджет.md",
     "Beorg/Projects/уБрИр/Убрир АВТО/УБРИР Авто.md",
-    "Day Planners/Day Planner-20240425.md",
     "Day Planners/Day Planner-20240426.md",
     "Selfish/Mine.md",
     "Selfish/Pres.md",
