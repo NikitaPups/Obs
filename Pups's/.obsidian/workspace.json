@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/API's/Убрири ТОкени.md",
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20240425.md",
+                "file": "Beorg/Projects/АО «НИИМЭ».md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/API's/Убрири ТОкени.md",
+                "file": "Beorg/Projects/АО «НИИМЭ».md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/API's/Убрири ТОкени.md",
+                "file": "Beorg/Projects/АО «НИИМЭ».md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/API's/Убрири ТОкени.md"
+                "file": "Beorg/Projects/АО «НИИМЭ».md"
               }
             }
           },
@@ -209,11 +210,24 @@
       "timer:Open timer": false
     }
   },
-  "active": "c9bc6d4837004152",
+  "active": "bea1529985ade4c8",
   "lastOpenFiles": [
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
+    "Beorg/Work-work-work-work-work.md",
+    "Beorg/Projects/АО «НИИМЭ».md",
+    "Beorg/FAQ bElOaDer.md",
     "Day Planners/Day Planner-20240425.md",
+    "2024-04-25.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/Projects/Торгсервис импэкс/Торгсервис импэкс Бюджет. Бухгалтерские документы.md",
+    "Beorg/API's/Убрири ТОкени.md",
+    "Beorg/Projects/Торгсервис импэкс",
+    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Dict.md",
+    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Задачи убрир ИП.md",
+    "beorg/projects/убрир/задачи убрир Ип/dict.md",
+    "Beorg/Projects/уБрИр/задачи убрир Ип/dict.md",
+    "Beorg/Projects/уБрИр/задачи убрир Ип",
+    "beorg/projects/убрир/задачи убрир Ип",
+    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/La Vivion/La vivion Бюджет промо.md",
     "Beorg/Projects/La Vivion/La Vivion Общ..md",
     "Beorg/Projects/Главная смена - Кадры/Главная смена бюджет.md",
@@ -222,31 +236,18 @@
     "Beorg/API's/Пробный API.md",
     "Beorg/API's/Demo 04.04.24 -26.04.md",
     "Beorg/API's/La Vivion - 22.04.24.md",
-    "Beorg/API's/Убрири ТОкени.md",
-    "Beorg/Projects/АО «НИИМЭ».md",
     "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
     "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Письмо Елене 22.04.md",
     "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Старая версия загружаемого шаблона .pdf",
-    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Задачи убрир ИП.md",
     "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Убрир ИП Бюджет.md",
     "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК бюджет.md",
     "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md",
-    "Beorg/Projects/уБрИр/УБРИР дДу.ДкП/ДДу Дкп.md",
-    "Beorg/Projects/уБрИр/Убрир АВТО/UBrir AUTO Glosarii.md",
     "Beorg/Projects/уБрИр/Убрир АВТО/Анкета ОКАМИ.pdf",
-    "Beorg/Projects/уБрИр/Убрир АВТО/УБРир АВТо Бюджет.md",
-    "Beorg/Projects/уБрИр/Убрир АВТО/УБРИР Авто.md",
-    "Day Planners/Day Planner-20240426.md",
-    "Selfish/Mine.md",
-    "Selfish/Pres.md",
     "Beorg/Projects/уБрИр/УБРИР дДу.ДкП",
     "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Новая версия загружаемого шаблона.pdf",
     "Beorg/Projects/уБрИр/Убрир Правки и вопросы",
     "Beorg/Projects/уБрИр/Убрири ККK",
     "тз_главная_смена_v01.docx",
-    "Beorg/Projects/уБрИр/Убрири КК",
-    "УБРИРИ",
-    "Beorg/Projects/уБрИр/Убрир АВТО/~$Глоссарий КК_4.xlsx",
     "Untitled.canvas"
   ]
 }
