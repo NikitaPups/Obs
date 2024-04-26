@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "file": "Beorg/Projects/Письмо по задаче ОМК 28112.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/АО «НИИМЭ».md",
+                "file": "Day Planners/Day Planner-20240426.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -92,7 +91,7 @@
       {
         "id": "a9b1731176ca9634",
         "type": "tabs",
-        "dimension": 30.254476908576816,
+        "dimension": 32.97769156159069,
         "children": [
           {
             "id": "92b48a2a41771e90",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/АО «НИИМЭ».md",
+                "file": "Beorg/Projects/Письмо по задаче ОМК 28112.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/АО «НИИМЭ».md",
+                "file": "Beorg/Projects/Письмо по задаче ОМК 28112.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/АО «НИИМЭ».md"
+                "file": "Beorg/Projects/Письмо по задаче ОМК 28112.md"
               }
             }
           },
@@ -166,28 +165,13 @@
       {
         "id": "8f775bcbd8fcefb9",
         "type": "tabs",
-        "dimension": 30.16022620169651,
+        "dimension": 67.02230843840931,
         "children": [
           {
             "id": "974662937cbfbf20",
             "type": "leaf",
             "state": {
               "type": "Timer",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "6fd38fa4c60b59a3",
-        "type": "tabs",
-        "dimension": 39.58529688972667,
-        "children": [
-          {
-            "id": "6e6f06fbd1a35126",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           }
@@ -210,19 +194,23 @@
       "timer:Open timer": false
     }
   },
-  "active": "bea1529985ade4c8",
+  "active": "c9bc6d4837004152",
   "lastOpenFiles": [
-    "Beorg/Work-work-work-work-work.md",
+    "Day Planners/Day Planner-20240426.md",
+    "Beorg/Projects/Письмо по задаче ОМК 28112.md",
+    "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
+    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Dict.md",
+    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Задачи убрир ИП.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/API's/Demo 04.04.24 -26.04.md",
     "Beorg/Projects/АО «НИИМЭ».md",
+    "Beorg/Work-work-work-work-work.md",
     "Beorg/FAQ bElOaDer.md",
     "Day Planners/Day Planner-20240425.md",
     "2024-04-25.md",
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/Торгсервис импэкс/Торгсервис импэкс Бюджет. Бухгалтерские документы.md",
     "Beorg/API's/Убрири ТОкени.md",
     "Beorg/Projects/Торгсервис импэкс",
-    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Dict.md",
-    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Задачи убрир ИП.md",
     "beorg/projects/убрир/задачи убрир Ип/dict.md",
     "Beorg/Projects/уБрИр/задачи убрир Ип/dict.md",
     "Beorg/Projects/уБрИр/задачи убрир Ип",
@@ -234,14 +222,10 @@
     "Beorg/Projects/уБрИр/Убрири ККK/Убрир кк.md",
     "Beorg/API's/Test API.md",
     "Beorg/API's/Пробный API.md",
-    "Beorg/API's/Demo 04.04.24 -26.04.md",
     "Beorg/API's/La Vivion - 22.04.24.md",
-    "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
     "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Письмо Елене 22.04.md",
     "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Старая версия загружаемого шаблона .pdf",
     "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Убрир ИП Бюджет.md",
-    "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК бюджет.md",
-    "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md",
     "Beorg/Projects/уБрИр/Убрир АВТО/Анкета ОКАМИ.pdf",
     "Beorg/Projects/уБрИр/УБРИР дДу.ДкП",
     "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Новая версия загружаемого шаблона.pdf",
