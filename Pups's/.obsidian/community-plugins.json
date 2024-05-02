@@ -3,9 +3,10 @@
   "obsidian-minimal-settings",
   "templater-obsidian",
   "obsidian-plugin-todo",
-  "day-planner-og",
   "obsidian-style-settings",
   "obsidian-git",
   "highlightr-plugin",
-  "timer"
+  "timer",
+  "obsidian-daily-note-outline",
+  "periodic-notes"
 ]
