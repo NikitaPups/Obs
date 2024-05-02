@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "file": "Day Planners/Day Planner-20240427.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "file": "Day Planners/Day Planner-20240427.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md"
+                "file": "Day Planners/Day Planner-20240427.md"
               }
             }
           },
@@ -194,11 +195,11 @@
       "timer:Open timer": false
     }
   },
-  "active": "c9bc6d4837004152",
+  "active": "bea1529985ade4c8",
   "lastOpenFiles": [
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Day Planners/Day Planner-20240427.md",
     "Day Planners/Day Planner-20240426.md",
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/Письмо по задаче ОМК 28112.md",
     "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
     "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Dict.md",
