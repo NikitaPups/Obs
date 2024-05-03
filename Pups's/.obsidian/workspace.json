@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "56e7ada57d5a270a",
+            "id": "90dc80674e94e9d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -212,16 +213,19 @@
   },
   "active": "e44db20487068f69",
   "lastOpenFiles": [
-    "Beorg/Work-work-work-work-work.md",
+    "Daily/2024-05-03.md",
     "Beorg/FAQ bElOaDer.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Daily/2024-05-02.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/ДДу Дкп.md",
+    "~$.05.24.docx",
+    "2024_ПАО_КБ_УБРиР_Задание_№7_к_Договору_№_34216_драфт_1_7 (4).docx",
+    "03.05.24.docx",
+    "Beorg/Work-work-work-work-work.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
     "Untitled.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/ДДу Дкп.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Untitled.md",
-    "Daily/2024-05-03.md",
-    "Daily/2024-05-02.md",
     "Beorg/Projects/Главная смена - Кадры/Главная смена бюджет.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Daily",
@@ -244,9 +248,6 @@
     "beorg/projects/убрир/задачи убрир Ип",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Старая версия загружаемого шаблона .pdf",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир АВТО/Анкета ОКАМИ.pdf",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Новая версия загружаемого шаблона.pdf",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы",
     "Untitled.canvas"
   ]
 }
