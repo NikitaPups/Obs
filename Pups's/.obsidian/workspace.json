@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9bc6d4837004152",
+            "id": "e44db20487068f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e44db20487068f69",
+            "id": "56e7ada57d5a270a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
       {
         "id": "a9b1731176ca9634",
         "type": "tabs",
-        "dimension": 32.99798792756539,
+        "dimension": 32.49496981891348,
         "children": [
           {
             "id": "92b48a2a41771e90",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-03.md",
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-03.md",
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,24 +160,9 @@
         "currentTab": 1
       },
       {
-        "id": "8f775bcbd8fcefb9",
-        "type": "tabs",
-        "dimension": 30.482897384305836,
-        "children": [
-          {
-            "id": "974662937cbfbf20",
-            "type": "leaf",
-            "state": {
-              "type": "Timer",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "ea455302cfef1810",
         "type": "tabs",
-        "dimension": 36.519114688128774,
+        "dimension": 37.02213279678068,
         "children": [
           {
             "id": "b618dcc41e828945",
@@ -189,6 +173,21 @@
                 "activeSet": 0,
                 "activeGranularity": 0
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e6651f563f2ce050",
+        "type": "tabs",
+        "dimension": 30.482897384305836,
+        "children": [
+          {
+            "id": "974662937cbfbf20",
+            "type": "leaf",
+            "state": {
+              "type": "Timer",
+              "state": {}
             }
           }
         ]
@@ -213,42 +212,41 @@
   },
   "active": "e44db20487068f69",
   "lastOpenFiles": [
-    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
-    "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
+    "Beorg/Work-work-work-work-work.md",
+    "Beorg/FAQ bElOaDer.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
+    "Untitled.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/ДДу Дкп.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Untitled.md",
     "Daily/2024-05-03.md",
     "Daily/2024-05-02.md",
+    "Beorg/Projects/Главная смена - Кадры/Главная смена бюджет.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Daily",
     "2024-05-31.md",
-    "Untitled.md",
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Beorg/Projects/уБрИр/Убрир Правки и вопросы/проблема с загрузкой.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/проблема с загрузкой.md",
     "Day Planners/Day Planner-20240427.md",
     "Day Planners/Day Planner-20240502.md",
     "Day Planners/Day Planner-20240426.md",
     "Beorg/Projects/Письмо по задаче ОМК 28112.md",
-    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Dict.md",
-    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Задачи убрир ИП.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Dict.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Задачи убрир ИП.md",
     "Beorg/API's/Demo 04.04.24 -26.04.md",
     "Beorg/Projects/АО «НИИМЭ».md",
-    "Beorg/Work-work-work-work-work.md",
-    "Beorg/FAQ bElOaDer.md",
     "Day Planners/Day Planner-20240425.md",
     "2024-04-25.md",
     "Beorg/Projects/Торгсервис импэкс/Торгсервис импэкс Бюджет. Бухгалтерские документы.md",
     "Beorg/API's/Убрири ТОкени.md",
     "Beorg/Projects/Торгсервис импэкс",
-    "beorg/projects/убрир/задачи убрир Ип/dict.md",
-    "Beorg/Projects/уБрИр/задачи убрир Ип/dict.md",
     "Beorg/Projects/уБрИр/задачи убрир Ип",
     "beorg/projects/убрир/задачи убрир Ип",
-    "Beorg/Projects/La Vivion/La vivion Бюджет промо.md",
-    "Beorg/Projects/La Vivion/La Vivion Общ..md",
-    "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Старая версия загружаемого шаблона .pdf",
-    "Beorg/Projects/уБрИр/Убрир АВТО/Анкета ОКАМИ.pdf",
-    "Beorg/Projects/уБрИр/УБРИР дДу.ДкП",
-    "Beorg/Projects/уБрИр/Убрир Правки и вопросы/Новая версия загружаемого шаблона.pdf",
-    "Beorg/Projects/уБрИр/Убрир Правки и вопросы",
-    "Beorg/Projects/уБрИр/Убрири ККK",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Старая версия загружаемого шаблона .pdf",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир АВТО/Анкета ОКАМИ.pdf",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Новая версия загружаемого шаблона.pdf",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы",
     "Untitled.canvas"
   ]
 }
