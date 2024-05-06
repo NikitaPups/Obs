@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Quest/Письмо по задаче ОМК 28112.md",
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
                 "mode": "source",
                 "source": false
               }
@@ -78,17 +78,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "a5b5eddfc528c3dc",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,20 +227,19 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "timer:Open timer": false,
-      "periodic-notes:Open today": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "3aa769b741f50bab",
   "lastOpenFiles": [
-    "~$.05.24.docx",
-    "06.05.24.docx",
-    "03.05.24.docx",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Daily/2024-05-06.md",
     "Beorg/Quest/Письмо по задаче ОМК 28112.md",
-    "Beorg/Quest/Work-work-work-work-work.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/ДДу Дкп.md",
+    "~$.05.24.docx",
+    "06.05.24.docx",
+    "03.05.24.docx",
+    "Beorg/Quest/Work-work-work-work-work.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир АВТО/UBrir AUTO Glosarii.md",
     "Beorg/Projects/VelesStroi/veles.md",
     "Beorg/Quest/FAQ bElOaDer.md",
@@ -266,7 +256,6 @@
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/2024_ПАО_КБ_УБРиР_Задание_№7_к_Договору_№_34216_драфт_1_7 (4).docx",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/03.05.24.docx",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Untitled.md",
     "Beorg/Projects/Главная смена - Кадры/Главная смена бюджет.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
