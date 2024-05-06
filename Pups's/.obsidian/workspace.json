@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "file": "Beorg/Projects/La Vivion/La vivion Бюджет промо.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
       {
         "id": "a9b1731176ca9634",
         "type": "tabs",
-        "dimension": 32.49496981891348,
+        "dimension": 32.494969818913475,
         "children": [
           {
             "id": "92b48a2a41771e90",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "file": "Beorg/Projects/La Vivion/La vivion Бюджет промо.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "file": "Beorg/Projects/La Vivion/La vivion Бюджет промо.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,6 +156,16 @@
               "type": "Timer",
               "state": {}
             }
+          },
+          {
+            "id": "280fe15d0e7ef9a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Beorg/Projects/La Vivion/La vivion Бюджет промо.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -163,7 +173,7 @@
       {
         "id": "ea455302cfef1810",
         "type": "tabs",
-        "dimension": 37.02213279678068,
+        "dimension": 37.022132796780674,
         "children": [
           {
             "id": "b618dcc41e828945",
@@ -181,7 +191,7 @@
       {
         "id": "e6651f563f2ce050",
         "type": "tabs",
-        "dimension": 30.482897384305836,
+        "dimension": 30.482897384305833,
         "children": [
           {
             "id": "974662937cbfbf20",
@@ -213,9 +223,12 @@
   },
   "active": "e44db20487068f69",
   "lastOpenFiles": [
+    "Проект_лицензионного_договора_v00 (2).docx",
+    "Beorg/Projects/La Vivion/La Vivion Общ..md",
+    "Beorg/Projects/La Vivion/La vivion Бюджет промо.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Daily/2024-05-03.md",
     "Beorg/FAQ bElOaDer.md",
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Daily/2024-05-02.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/ДДу Дкп.md",
     "~$.05.24.docx",
@@ -241,8 +254,6 @@
     "Beorg/Projects/АО «НИИМЭ».md",
     "Day Planners/Day Planner-20240425.md",
     "2024-04-25.md",
-    "Beorg/Projects/Торгсервис импэкс/Торгсервис импэкс Бюджет. Бухгалтерские документы.md",
-    "Beorg/API's/Убрири ТОкени.md",
     "Beorg/Projects/Торгсервис импэкс",
     "Beorg/Projects/уБрИр/задачи убрир Ип",
     "beorg/projects/убрир/задачи убрир Ип",
