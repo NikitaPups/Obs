@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/ДДу Дкп.md",
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/ДДу Дкп.md",
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/ДДу Дкп.md"
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md"
               }
             }
           },
@@ -230,12 +229,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3aa769b741f50bab",
+  "active": "e44db20487068f69",
   "lastOpenFiles": [
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/ДДу Дкп.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Daily/2024-05-06.md",
     "Beorg/Quest/Письмо по задаче ОМК 28112.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/ДДу Дкп.md",
     "~$.05.24.docx",
     "06.05.24.docx",
     "03.05.24.docx",
