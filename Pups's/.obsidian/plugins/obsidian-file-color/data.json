@@ -1,0 +1,39 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "ADwPkmukFPc0fEZo05evM",
+      "name": "1",
+      "value": "#8fb36b"
+    },
+    {
+      "id": "rUdO4xMAaESYtxJwWpZh7",
+      "name": "2",
+      "value": "#6f9ac3"
+    },
+    {
+      "id": "KzWRiGKL7fMtO22zqQRet",
+      "name": "",
+      "value": "#d21414"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Beorg/Quest",
+      "color": "rUdO4xMAaESYtxJwWpZh7"
+    },
+    {
+      "path": "Beorg/Projects/Металлоприемка",
+      "color": "ADwPkmukFPc0fEZo05evM"
+    },
+    {
+      "path": "Beorg/Projects/Главная смена - Кадры",
+      "color": "rUdO4xMAaESYtxJwWpZh7"
+    },
+    {
+      "path": "Beorg/Quest/Письмо по задаче ОМК 28112.md",
+      "color": "ADwPkmukFPc0fEZo05evM"
+    }
+  ]
+}

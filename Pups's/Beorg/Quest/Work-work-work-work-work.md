@@ -1,4 +1,4 @@
-[[Beorg/FAQ bElOaDer]]
+[[FAQ bElOaDer]]
 [[beorg/meeting]]
 [[beorg/RedOcean ]]
 [[Металлолом бюджет]]
