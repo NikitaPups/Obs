@@ -1,5 +1,4 @@
 {
-  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
   "anuppuccin-theme-settings@@anp-autohide-titlebar": true,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
@@ -30,8 +29,8 @@
   "anuppuccin-theme-settings@@anp-decoration-toggle": false,
   "anuppuccin-theme-settings@@anp-toggle-preview": false,
   "anuppuccin-theme-settings@@anp-kanban-hide-card-menus": false,
-  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-rosewater",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-rosewater",
   "anuppuccin-theme-settings@@ctp-custom-rosewater@@light": "#A4CAB6",
-  "anuppuccin-theme-settings@@ctp-custom-rosewater@@dark": "#A4CAB6"
+  "anuppuccin-theme-settings@@ctp-custom-rosewater@@dark": "#A4CAB6",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-rosewater"
 }
