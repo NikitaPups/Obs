@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9bc6d4837004152",
+            "id": "e44db20487068f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selfish/Mine.md",
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Dict.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9afff92803d6ec66",
+            "id": "3aa769b741f50bab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "section:()",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 233.5
   },
   "right": {
     "id": "bf68e83950daa576",
@@ -91,7 +91,7 @@
       {
         "id": "a9b1731176ca9634",
         "type": "tabs",
-        "dimension": 48.099173553719005,
+        "dimension": 32.70241850683491,
         "children": [
           {
             "id": "92b48a2a41771e90",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selfish/Mine.md",
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Dict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,19 +135,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selfish/Mine.md",
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Dict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b28e45c468e034a5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Selfish/Mine.md"
               }
             }
           },
@@ -160,23 +150,38 @@
             }
           },
           {
-            "id": "85507058bf306369",
+            "id": "24e8847da8748bd7",
             "type": "leaf",
             "state": {
-              "type": "daily-note-outline",
+              "type": "Timer",
+              "state": {}
+            }
+          },
+          {
+            "id": "280fe15d0e7ef9a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {
-                "activeSet": 0,
-                "activeGranularity": 0
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Dict.md"
               }
+            }
+          },
+          {
+            "id": "927a4aa29e28f9ef",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "8f775bcbd8fcefb9",
+        "id": "94f4fc0e62dd0567",
         "type": "tabs",
-        "dimension": 51.900826446281,
+        "dimension": 30.70452155625657,
         "children": [
           {
             "id": "974662937cbfbf20",
@@ -187,10 +192,28 @@
             }
           }
         ]
+      },
+      {
+        "id": "ea455302cfef1810",
+        "type": "tabs",
+        "dimension": 36.59305993690852,
+        "children": [
+          {
+            "id": "b618dcc41e828945",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,83 +229,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4452afb3b24eb42e",
+  "active": "e44db20487068f69",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
     "conflict-files-obsidian-git.md",
-    "Selfish/Mine.md",
-    "Daily/2024-05-14.md",
-    "Daily/2024-05-08.md",
-    "Daily/2024-05-07.md",
-    "Daily/2024-05-06.md",
-    "Beorg/Quest/Письмо по задаче ОМК 28112.md",
-    "Beorg/Quest/Work-work-work-work-work.md",
-    "Beorg/Quest/FAQ bElOaDer.md",
-    "Beorg/Quest",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/07.05.24.docx",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/06.05.24.docx",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/03.05.24 1.docx",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/Проект_лицензионного_договора_v00 (2).docx",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/03.05.24.docx",
-    "Beorg/Projects/VelesStroi/veles.md",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh",
-    "Beorg/Projects/VelesStroi",
-    "Beorg/API's/La Vivion - 20.05.md",
     "Day Planners/Day Planner-20240506.md",
-    "~$.05.24.docx",
-    "Daily/2024-05-03.md",
-    "Daily/2024-05-02.md",
-    "Daily",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК бюджет.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/проблема с загрузкой.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир АВТО/УБРир АВТо Бюджет.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир АВТО/УБРИР Авто.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир АВТО/UBrir AUTO Glosarii.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Untitled.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Письмо Елене 22.04.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Убрир ИП Бюджет.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
-=======
     "Day Planners/Day Planner-20240505.md",
     "Day Planners/Day Planner-20240422.md",
-    "Day Planners/Day Planner-20240419.md",
-    "Day Planners/Day Planner-20240421.md",
-    "Selfish/Mine.md",
+    "Day Planners",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Задачи убрир ИП.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Day Planners/Day Planner-20240420.md",
-    "Beorg/Projects/уБрИр/Убрири ККK/Убрир кк.md",
-    "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
-    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
-    "Beorg/API's/Тестовый API УБРИР 100 символов.md",
-    "Beorg/Projects/уБрИр/Убрир АВТО/УБРИР Авто.md",
-    "Beorg/Projects/уБрИр/уБрИр ДК (1119)/Убрир ДК.md",
-    "Beorg/API's/Demo 04.04.24 -26.04.md",
-    "Beorg/API's/La Vivion - 22.04.24.md",
-    "Day Planners/Day Planner-20240418.md",
-    "Beorg/API's/Test API.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Dict.md",
+    "Beorg/API's/La Vivion - 20.05.md",
     "Beorg/API's/API Авто, мой для загрузки.md",
     "Beorg/API's/Пробный API.md",
-    "Beorg/Projects/АО «НИИМЭ».md",
-    "Day Planners/Day Planner-20240417.md",
+    "Beorg/API's/Test API.md",
+    "Beorg/API's/Тестовый API УБРИР 100 символов.md",
+    "Beorg/API's/Убрири ТОкени.md",
+    "Beorg/Projects/VelesStroi/veles.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
+    "ДК пропавший словарь.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Selfish/Pres.md",
-    "тз_главная_смена_v01.docx",
-    "Day Planners/Day Planner-20240416.md",
-    "Beorg/Projects/уБрИр/Убрир АВТО/UBrir AUTO Glosarii.md",
-    "Beorg/API's/Demo 04.04.24 -19.04.md",
-    "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Задачи убрир ИП.md",
-    "Beorg/Projects/уБрИр/Убрири ККK",
-    "УБРИРИ",
-    "Beorg/Projects/уБрИр/Убрир АВТО/Анкета ОКАМИ.pdf",
-    "Beorg/Projects/уБрИр/Убрир АВТО/~$Глоссарий КК_4.xlsx",
-    "~$Глоссарий КК_4.xlsx",
-    "Beorg/Projects/уБрИр/Убрир АВТО/Глоссарий КК_4.xlsx",
-    "Beorg 2/Projects/RedOcean",
-    "Beorg 2/Projects",
-    "Beorg 2/API's",
->>>>>>> Stashed changes
+    "Selfish/Mine.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК бюджет.md",
+    "Beorg/API's/Demo 04.04.24 -26.04.md",
+    "Daily/2024-05-14.md",
+    "Daily/2024-05-08.md",
+    "Beorg/Quest/Письмо по задаче ОМК 28112.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/~$24_ПАО_КБ_УБРиР_Задание_№7_к_Договору_№_34216_драфт_1_7 (4).docx",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/проблема с загрузкой.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/07.05.24.docx",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Новая версия загружаемого шаблона.pdf",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Старая версия загружаемого шаблона .pdf",
+    "~$.05.24.docx",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/06.05.24.docx",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/03.05.24 1.docx",
+    "Beorg/Quest",
+    "Beorg/Projects/VelesStroi/VelesStroi obsh",
     "Untitled.canvas"
   ]
 }
