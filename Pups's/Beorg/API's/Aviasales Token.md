@@ -1,0 +1,4 @@
+upload_place 7  
+campaign_id EDU_APK00  
+token a703dda448b0ef1e39e2063d877e92ab  
+machine_uid SVXNC2X7UAO0WCA0FBAATWTONRO3DHSIMRYIZCW5
