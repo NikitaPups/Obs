@@ -8,30 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e44db20487068f69",
+            "id": "2f43b68807402f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Aviasales вводные.md",
+                "file": "Beorg/Projects/MODIS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2f43b68807402f31",
+            "id": "5ea6a3c5135870a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/API's/Велес-строй мой токин.md",
+                "file": "Beorg/Projects/VelesStroi/veles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e44db20487068f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beorg/API's/Aviasales Token.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Aviasales вводные.md",
+                "file": "Beorg/API's/Aviasales Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Aviasales вводные.md",
+                "file": "Beorg/API's/Aviasales Token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Aviasales вводные.md"
+                "file": "Beorg/API's/Aviasales Token.md"
               }
             }
           },
@@ -232,14 +245,25 @@
   "active": "e44db20487068f69",
   "lastOpenFiles": [
     "Beorg/Projects/Aviasales/Aviasales General.md",
-    "Beorg/Projects/Aviasales/Aviasales вводные.md",
     "Beorg/API's/Aviasales Token.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Dict.md",
-    "Beorg/Projects/Aviasales",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Задачи убрир ИП.md",
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/VelesStroi/veles.md",
     "Beorg/API's/Велес-строй мой токин.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/API's/Demo_KYC_IP_Minenkov.md",
+    "Beorg/Projects/MODIS.md",
+    "Beorg/Projects/БКС токен.md",
+    "Daily/2024-05-22.md",
+    "AviaSales",
+    "Beorg/Quest/Вопросы Даше.md",
+    "Beorg/Quest/Work-work-work-work-work.md",
+    "Beorg/Quest/Письмо по задаче ОМК 28112.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Dict.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Задачи убрир ИП.md",
+    "Beorg/Projects/Aviasales/Aviasales Gen/Aviasales вводные.md",
+    "Beorg/Quest/FAQ bElOaDer.md",
+    "Beorg/Projects/Aviasales/Aviasales Gen",
+    "Beorg/Projects/Aviasales",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/~$.05.24.docx",
     "Daily/2024-05-06.md",
@@ -252,21 +276,10 @@
     "Beorg/API's/La Vivion - 20.05.md",
     "Beorg/API's/API Авто, мой для загрузки.md",
     "Beorg/API's/Пробный API.md",
-    "Beorg/API's/Test API.md",
-    "Beorg/API's/Тестовый API УБРИР 100 символов.md",
-    "Beorg/API's/Убрири ТОкени.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
-    "ДК пропавший словарь.md",
-    "Selfish/Pres.md",
-    "Selfish/Mine.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК бюджет.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/~$24_ПАО_КБ_УБРиР_Задание_№7_к_Договору_№_34216_драфт_1_7 (4).docx",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/07.05.24.docx",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Новая версия загружаемого шаблона.pdf",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Старая версия загружаемого шаблона .pdf",
-    "~$.05.24.docx",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/06.05.24.docx",
     "Untitled.canvas"
   ]
 }

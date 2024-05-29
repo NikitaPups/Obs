@@ -24,14 +24,6 @@
       "color": "rUdO4xMAaESYtxJwWpZh7"
     },
     {
-      "path": "Beorg/Projects/Металлоприемка",
-      "color": "ADwPkmukFPc0fEZo05evM"
-    },
-    {
-      "path": "Beorg/Projects/Главная смена - Кадры",
-      "color": "rUdO4xMAaESYtxJwWpZh7"
-    },
-    {
       "path": "Beorg/Quest/Письмо по задаче ОМК 28112.md",
       "color": "ADwPkmukFPc0fEZo05evM"
     },
@@ -45,6 +37,14 @@
     },
     {
       "path": "Daily",
+      "color": "ADwPkmukFPc0fEZo05evM"
+    },
+    {
+      "path": "Beorg/Projects/VelesStroi",
+      "color": "ADwPkmukFPc0fEZo05evM"
+    },
+    {
+      "path": "Beorg/Projects/Aviasales",
       "color": "ADwPkmukFPc0fEZo05evM"
     }
   ]

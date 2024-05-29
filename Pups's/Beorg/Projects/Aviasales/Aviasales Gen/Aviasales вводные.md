@@ -4,4 +4,7 @@
 Сво о рождении 5% от объема  
 паспорт СНГ 5% от объема
 
+Контактное лицо - Иван Бойцов  
+Руководитель Авиасейлс для бизнеса
+
 https://docs.google.com/spreadsheets/d/15tCZOIy-D4ACqa9Ucewfin0AQPh2BY2mF40TyIynZS0/edit#gid=1697710229

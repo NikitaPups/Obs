@@ -1,4 +1,10 @@
+## DEMO:
 upload_place 7  
 campaign_id EDU_APK00  
 token a703dda448b0ef1e39e2063d877e92ab  
 machine_uid SVXNC2X7UAO0WCA0FBAATWTONRO3DHSIMRYIZCW5
+## TEST moy:
+upload place:  1
+Hop: 24AVSL_MAST_TEST
+Token:  6f83eb56b1aa88a3ae953d54856a79fc
+Machine_uid:  TXRSETEHCNCCPP3MJYMNUQAPIO0AF4OYJQU83RKM
