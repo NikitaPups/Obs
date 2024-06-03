@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2fbfb6231038ca67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beorg/GEN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c7d795ec18d086ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/VelesStroi/Veles.md",
+                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +91,7 @@
       {
         "id": "a9b1731176ca9634",
         "type": "tabs",
-        "dimension": 32.66171792152704,
+        "dimension": 32.62342691190707,
         "children": [
           {
             "id": "92b48a2a41771e90",
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/VelesStroi/Veles.md",
+                "file": "Beorg/GEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/VelesStroi/Veles.md",
+                "file": "Beorg/GEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/VelesStroi/Veles.md"
+                "file": "Beorg/GEN.md"
               }
             }
           },
@@ -169,7 +181,7 @@
       {
         "id": "94f4fc0e62dd0567",
         "type": "tabs",
-        "dimension": 34.4644750795334,
+        "dimension": 34.462729912875126,
         "children": [
           {
             "id": "974662937cbfbf20",
@@ -184,7 +196,7 @@
       {
         "id": "ea455302cfef1810",
         "type": "tabs",
-        "dimension": 32.87380699893955,
+        "dimension": 32.91384317521781,
         "children": [
           {
             "id": "b618dcc41e828945",
@@ -212,26 +224,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "timer:Open timer": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c7d795ec18d086ea",
+  "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
-    "Beorg/GEN.md",
-    "Beorg/API's/Велес-строй мой токин.md",
-    "Beorg/Projects/VelesStroi/Veles.md",
-    "Beorg/Projects/Aviasales/Aviasales General.md",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ call.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/GEN.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
+    "Beorg/Projects/Aviasales/Aviasales General.md",
+    "Beorg/Projects/VelesStroi/Veles.md",
+    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ reclaim.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
+    "Beorg/API's/Велес-строй мой токин.md",
+    "Beorg/Quest/Hop Описание Общие настройки.md",
+    "Beorg/Quest/Контра Велес + Авиасейлс.md",
+    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ call.md",
     "beorg/RedOcean.md",
     "Beorg/RedOcean.md",
     "Beorg/Projects/MODIS.md",
     "Beorg/Projects/La Vivion/La Vivion Общ..md",
     "Beorg/Projects/Aviasales/Aviasales Gen/Aviasales вводные.md",
     "Beorg/API's/Aviasales Token.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
     "Beorg/API's/Demo_KYC_IP_Minenkov.md",
     "Beorg/Projects/БКС токен.md",
     "Daily/2024-05-22.md",
@@ -244,12 +260,8 @@
     "Beorg/Quest/FAQ bElOaDer.md",
     "Beorg/Projects/Aviasales/Aviasales Gen",
     "Beorg/Projects/Aviasales",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/~$.05.24.docx",
-    "Daily/2024-05-06.md",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/~$оект_лицензионного_договора_v00 (2).docx",
-    "conflict-files-obsidian-git.md",
-    "Day Planners/Day Planner-20240506.md",
     "Day Planners",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/~$24_ПАО_КБ_УБРиР_Задание_№7_к_Договору_№_34216_драфт_1_7 (4).docx",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/07.05.24.docx",
