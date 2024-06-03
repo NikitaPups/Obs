@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/GEN.md"
+                "file": "Beorg/Projects/Aviasales/Aviasales General.md"
               }
             }
           },
@@ -231,10 +231,11 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/GEN.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
+    "Beorg/API's/Aviasales Token.md",
     "Beorg/Projects/Aviasales/Aviasales General.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
     "Beorg/Projects/VelesStroi/Veles.md",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ reclaim.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
@@ -247,7 +248,6 @@
     "Beorg/Projects/MODIS.md",
     "Beorg/Projects/La Vivion/La Vivion Общ..md",
     "Beorg/Projects/Aviasales/Aviasales Gen/Aviasales вводные.md",
-    "Beorg/API's/Aviasales Token.md",
     "Beorg/API's/Demo_KYC_IP_Minenkov.md",
     "Beorg/Projects/БКС токен.md",
     "Daily/2024-05-22.md",

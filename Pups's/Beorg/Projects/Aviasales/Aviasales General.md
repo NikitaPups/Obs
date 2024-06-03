@@ -1,4 +1,4 @@
-[[Aviasales Token]]
+С[[Aviasales Token]]
 [[Aviasales вводные]]
 
 Контактное лицо - Иван Бойцов  
