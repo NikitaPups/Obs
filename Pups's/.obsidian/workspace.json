@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mine/Bot tg.md",
+                "file": "Beorg/GEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mine/Bot tg.md",
+                "file": "Beorg/GEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mine/Bot tg.md"
+                "file": "Beorg/GEN.md"
               }
             }
           },
@@ -230,10 +229,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c7d795ec18d086ea",
+  "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
-    "Mine/Mine.md",
     "Mine/Bot tg.md",
+    "Mine/Mine.md",
     "Mine/Pres.md",
     "Mine",
     "Beorg/Projects/Aviasales/Aviasales General.md",
