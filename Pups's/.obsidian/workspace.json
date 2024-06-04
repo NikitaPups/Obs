@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
+                "file": "Beorg/GEN.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
+                "file": "Mine/Bot tg.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
+                "file": "Mine/Bot tg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
+                "file": "Mine/Bot tg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Aviasales General.md"
+                "file": "Mine/Bot tg.md"
               }
             }
           },
@@ -225,48 +226,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "timer:Open timer": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "2fbfb6231038ca67",
+  "active": "c7d795ec18d086ea",
   "lastOpenFiles": [
-    "Beorg/GEN.md",
-    "Beorg/API's/Aviasales Token.md",
+    "Mine/Mine.md",
+    "Mine/Bot tg.md",
+    "Mine/Pres.md",
+    "Mine",
     "Beorg/Projects/Aviasales/Aviasales General.md",
+    "Beorg/GEN.md",
+    "[[Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
+    "Beorg/Projects/VelesStroi/Veles.md",
+    "[[Beorg/Projects/VelesStroi/VelesStroi obsh",
+    "[[Beorg/Projects/VelesStroi",
+    "[[Beorg/Projects",
+    "[[Beorg",
+    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
+    "[Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
+    "[Beorg/Projects/VelesStroi/VelesStroi obsh",
+    "[Beorg/Projects/VelesStroi",
+    "[Beorg/Projects",
+    "[Beorg",
+    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ reclaim.md",
+    "Beorg/Projects/Aviasales/Aviasales Gen/Reform Test and boi.md",
+    "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
+    "Beorg/Projects/MODIS.md",
+    "Beorg/API's/Велес-строй мой токин.md",
+    "Beorg/API's/Aviasales Token.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
-    "Beorg/Projects/VelesStroi/Veles.md",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ reclaim.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
-    "Beorg/API's/Велес-строй мой токин.md",
     "Beorg/Quest/Hop Описание Общие настройки.md",
     "Beorg/Quest/Контра Велес + Авиасейлс.md",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ call.md",
     "beorg/RedOcean.md",
     "Beorg/RedOcean.md",
-    "Beorg/Projects/MODIS.md",
     "Beorg/Projects/La Vivion/La Vivion Общ..md",
     "Beorg/Projects/Aviasales/Aviasales Gen/Aviasales вводные.md",
     "Beorg/API's/Demo_KYC_IP_Minenkov.md",
     "Beorg/Projects/БКС токен.md",
-    "Daily/2024-05-22.md",
     "AviaSales",
-    "Beorg/Quest/Вопросы Даше.md",
-    "Beorg/Quest/Work-work-work-work-work.md",
-    "Beorg/Quest/Письмо по задаче ОМК 28112.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Dict.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/Задачи убрир ИП.md",
-    "Beorg/Quest/FAQ bElOaDer.md",
-    "Beorg/Projects/Aviasales/Aviasales Gen",
-    "Beorg/Projects/Aviasales",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/~$.05.24.docx",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/~$оект_лицензионного_договора_v00 (2).docx",
-    "Day Planners",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/~$24_ПАО_КБ_УБРиР_Задание_№7_к_Договору_№_34216_драфт_1_7 (4).docx",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/07.05.24.docx",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Новая версия загружаемого шаблона.pdf",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Правки и вопросы/Старая версия загружаемого шаблона .pdf",
     "Untitled.canvas"
   ]
 }

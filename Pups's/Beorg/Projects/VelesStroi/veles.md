@@ -1,6 +1,9 @@
 ## Gen info
 [[Велес-строй мой токин]]
-[[FAQ call]]
+[[Reform TETS and boi]]
+
+---
+[[[[Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ|FAQ]]
 [[FAQ reclaim]]
 ## BOI:
 
