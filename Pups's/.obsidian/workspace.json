@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/API's/Aviasales Token.md",
+                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/API's/Aviasales Token.md",
+                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/API's/Aviasales Token.md",
+                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/API's/Aviasales Token.md"
+                "file": "Beorg/Projects/Aviasales/Aviasales General.md"
               }
             }
           },
@@ -231,13 +231,14 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
-    "Beorg/Projects/Aviasales/Aviasales General.md",
-    "Beorg/Projects/Aviasales/Aviasales Gen/Reform Test and boi.md",
     "Beorg/GEN.md",
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
-    "Mine/Bot tg.md",
     "Beorg/Projects/VelesStroi/Veles.md",
+    "Beorg/Projects/Aviasales/Aviasales Gen/Reform Test and boi.md",
+    "Beorg/Projects/Aviasales/Aviasales General.md",
+    "Beorg/API's/Aviasales Token.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Mine/Bot tg.md",
     "[Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
     "Mine/Mine.md",
     "Mine/Pres.md",
@@ -255,7 +256,6 @@
     "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ reclaim.md",
     "Beorg/Projects/MODIS.md",
     "Beorg/API's/Велес-строй мой токин.md",
-    "Beorg/API's/Aviasales Token.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
     "Beorg/Quest/Hop Описание Общие настройки.md",
