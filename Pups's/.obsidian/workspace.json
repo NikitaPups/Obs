@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7d795ec18d086ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Mine/Bot tg.md",
                 "mode": "source",
                 "source": false
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
+                "file": "Mine/Bot tg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Aviasales General.md",
+                "file": "Mine/Bot tg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Aviasales General.md"
+                "file": "Mine/Bot tg.md"
               }
             }
           },
@@ -231,17 +219,17 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Mine/Pres.md",
+    "Mine/Mine.md",
+    "Beorg/Projects/Aviasales/Aviasales General.md",
     "Beorg/GEN.md",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
     "Beorg/Projects/VelesStroi/Veles.md",
     "Beorg/Projects/Aviasales/Aviasales Gen/Reform Test and boi.md",
-    "Beorg/Projects/Aviasales/Aviasales General.md",
     "Beorg/API's/Aviasales Token.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Mine/Bot tg.md",
     "[Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
-    "Mine/Mine.md",
-    "Mine/Pres.md",
     "Mine",
     "[[Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
     "[[Beorg/Projects/VelesStroi/VelesStroi obsh",

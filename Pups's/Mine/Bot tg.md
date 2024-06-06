@@ -1,1 +1,2 @@
-Token : 7356257231:AAGTK4VNK3iuwu7OwkpR0h51HcfEc4_584s
+Bot.name = BoB_P_bot
+Token : 7429945985:AAHh3K-lOmfNr1k0k9F6c5SU5vMXkpYhBgc
