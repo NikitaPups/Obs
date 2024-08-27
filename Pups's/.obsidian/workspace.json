@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mine/Mine.md",
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mine/Mine.md",
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mine/Mine.md"
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md"
               }
             }
           },
@@ -246,11 +245,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "09a607841238e9d7",
+  "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Mine/Mine.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Mine/Mine.md",
     "Mine/Pres.md",
     "Mine/Bot tg.md",
     "Daily/2024-06-14.md",
