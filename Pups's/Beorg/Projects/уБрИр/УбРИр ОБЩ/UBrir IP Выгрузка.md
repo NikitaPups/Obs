@@ -1,3 +1,4 @@
+\\Srvmain\Производственный отдел\Информация\Количество выгруженных анкет
 ## СНИЛС
 
 select packID, count() from ClientClusterUB.Questionaries q

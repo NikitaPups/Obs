@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/API's/Велес-строй мой токин.md",
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Миненков.md",
+                "file": "Mine/Mine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -78,12 +79,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200
   },
   "right": {
     "id": "bf68e83950daa576",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/API's/Велес-строй мой токин.md",
+                "file": "Mine/Mine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/API's/Велес-строй мой токин.md",
+                "file": "Mine/Mine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/API's/Велес-строй мой токин.md"
+                "file": "Mine/Mine.md"
               }
             }
           },
@@ -173,6 +173,22 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdf358f5ba1b2b15",
+            "type": "leaf",
+            "state": {
+              "type": "Timer",
+              "state": {}
+            }
+          },
+          {
+            "id": "839f5379025d61bc",
+            "type": "leaf",
+            "state": {
+              "type": "Timer",
               "state": {}
             }
           }
@@ -214,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,44 +246,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fbfb6231038ca67",
+  "active": "09a607841238e9d7",
   "lastOpenFiles": [
-    "Beorg/Projects/Миненков.md",
-    "Beorg/API's/Web_pasport_bio.md",
-    "Beorg/Projects/Aviasales/Aviasales Gen/Reform Test and boi.md",
-    "Beorg/API's/Велес-строй мой токин.md",
-    "Beorg/Projects/VelesStroi/Veles.md",
-    "Beorg/GEN.md",
-    "Beorg/Projects/Aviasales/Aviasales General.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Mine/Mine.md",
+    "Mine/Pres.md",
     "Mine/Bot tg.md",
+    "Daily/2024-06-14.md",
+    "Beorg/GEN.md",
+    "Beorg/Projects/VelesStroi/Схема работы.png",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Сверки.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Untitled",
+    "Beorg/Projects/Мага-хит.md",
+    "Beorg/Projects/Ze old but gold",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
+    "Beorg/Projects/Aviasales/Aviasales General.md",
+    "Beorg/Projects/Aviasales/FAQ.md",
+    "Beorg/API's/Aviasales Token.md",
+    "Beorg/Projects/VelesStroi/Veles.md",
+    "Beorg/API's/Велес-строй мой токин.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
+    "Beorg/Quest/Демо.md",
     "[[Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
+    "Beorg/Projects/RedOcean/Проекты.md",
+    "Beorg/Projects/RedOcean/Созвон 11.04.md",
     "[[Beorg/Projects/VelesStroi/VelesStroi obsh",
     "[[Beorg/Projects/VelesStroi",
     "[[Beorg/Projects",
     "[[Beorg",
-    "Beorg/Projects/БКС токен.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Beorg/Projects/La Vivion/La vivion Бюджет промо.md",
-    "Beorg/Projects/Aviasales/FAQ.md",
-    "2024-06-14.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
-    "Mine/Pres.md",
-    "Mine/Mine.md",
-    "Beorg/API's/Aviasales Token.md",
-    "[Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
+    "Beorg/API's/PERV 01.md",
+    "Beorg/API's/Web_pasport_bio.md",
+    "Beorg/Projects/Aviasales/Aviasales Gen/Reform Test and boi.md",
+    "Beorg/Quest/Hop Описание Общие настройки.md",
+    "Beorg/Quest/FAQ bElOaDer.md",
+    "Beorg/Projects/Ze old but gold/ИТ1.md",
     "Mine",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
     "[Beorg/Projects/VelesStroi/VelesStroi obsh",
     "[Beorg/Projects/VelesStroi",
     "[Beorg/Projects",
-    "[Beorg",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ reclaim.md",
-    "Beorg/Projects/MODIS.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
-    "AviaSales",
     "Untitled.canvas"
   ]
 }
