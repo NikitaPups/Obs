@@ -2,7 +2,7 @@
 - [x] Ubunta  linux
 - [x] balena etcher
 - [x] CopyQ 
-- [ ] Git auto sync
+- [x] Git auto sync
 - [ ] Внести машины дела в ежедневник 
 
 ## Расписание дел 22-25: 
