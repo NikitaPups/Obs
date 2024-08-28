@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mine/Mine.md",
+                "file": "Beorg/GEN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
+                "file": "Beorg/GEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
+                "file": "Beorg/GEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md"
+                "file": "Beorg/GEN.md"
               }
             }
           },
@@ -245,19 +246,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fbfb6231038ca67",
+  "active": "09a607841238e9d7",
   "lastOpenFiles": [
-    "Mine/Mine.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/GEN.md",
+    "Mine/Mine.md",
+    "Beorg/Projects/Ze old but gold/Мага-хит.md",
+    "Beorg/Accesses/RDP.md",
+    "Beorg/Accesses/CMD.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
+    "Beorg/Accesses",
     "Mine/Pres.md",
     "Mine/Bot tg.md",
     "Daily/2024-06-14.md",
-    "Beorg/GEN.md",
     "Beorg/Projects/VelesStroi/Схема работы.png",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Сверки.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Untitled",
-    "Beorg/Projects/Мага-хит.md",
     "Beorg/Projects/Ze old but gold",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/Aviasales/Aviasales General.md",
@@ -278,12 +282,9 @@
     "Beorg/API's/Web_pasport_bio.md",
     "Beorg/Projects/Aviasales/Aviasales Gen/Reform Test and boi.md",
     "Beorg/Quest/Hop Описание Общие настройки.md",
-    "Beorg/Quest/FAQ bElOaDer.md",
-    "Beorg/Projects/Ze old but gold/ИТ1.md",
     "Mine",
     "[Beorg/Projects/VelesStroi/VelesStroi obsh",
     "[Beorg/Projects/VelesStroi",
-    "[Beorg/Projects",
     "Untitled.canvas"
   ]
 }
