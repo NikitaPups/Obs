@@ -20,10 +20,6 @@
   ],
   "fileColors": [
     {
-      "path": "Beorg/Quest",
-      "color": "rUdO4xMAaESYtxJwWpZh7"
-    },
-    {
       "path": "Beorg/Quest/Письмо по задаче ОМК 28112.md",
       "color": "ADwPkmukFPc0fEZo05evM"
     },
@@ -45,6 +41,18 @@
     },
     {
       "path": "Beorg/Projects/Aviasales",
+      "color": "ADwPkmukFPc0fEZo05evM"
+    },
+    {
+      "path": "Beorg/Projects/RedOcean",
+      "color": "ADwPkmukFPc0fEZo05evM"
+    },
+    {
+      "path": "Beorg/Projects/Мега-хит",
+      "color": "ADwPkmukFPc0fEZo05evM"
+    },
+    {
+      "path": "Beorg/GEN.md",
       "color": "ADwPkmukFPc0fEZo05evM"
     }
   ]

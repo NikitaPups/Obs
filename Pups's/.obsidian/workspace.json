@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/Мега-хит/Закрытие.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5fc196182cd35023",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -99,7 +91,7 @@
       {
         "id": "a9b1731176ca9634",
         "type": "tabs",
-        "dimension": 32.62839879154079,
+        "dimension": 30.306122448979593,
         "children": [
           {
             "id": "92b48a2a41771e90",
@@ -126,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/Мега-хит/Закрытие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/Мега-хит/Закрытие.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/GEN.md"
+                "file": "Beorg/Projects/Мега-хит/Закрытие.md"
               }
             }
           },
@@ -205,7 +197,7 @@
       {
         "id": "94f4fc0e62dd0567",
         "type": "tabs",
-        "dimension": 34.44108761329305,
+        "dimension": 32.55102040816327,
         "children": [
           {
             "id": "974662937cbfbf20",
@@ -220,7 +212,7 @@
       {
         "id": "ea455302cfef1810",
         "type": "tabs",
-        "dimension": 32.93051359516616,
+        "dimension": 37.142857142857146,
         "children": [
           {
             "id": "b618dcc41e828945",
@@ -255,27 +247,29 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
-    "Beorg/Projects/RedOcean/ЗакрытиЁ.md",
+    "Beorg/Projects/Мега-хит/Мага-хит.md",
+    "Beorg/Projects/Мега-хит/Закрытие.md",
     "Beorg/GEN.md",
+    "Beorg/Projects/RedOcean/ЗакрытиЁ.md",
+    "Daily/2024-09-03.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
+    "Daily/2024-08-28.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/RedOcean/Проекты.md",
     "[Beorg/Projects/RedOcean/Закрытие.md",
     "[Beorg/Projects/RedOcean",
     "[Beorg/Projects",
     "[Beorg",
     "Beorg/Projects/Red_ocean",
-    "Beorg/Projects/Мега-хит/Закрытие.md",
     "Beorg/Projects/Мега-хит",
-    "Beorg/Projects/Мега-хит/Мага-хит.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/RedOcean/Созвон 11.04.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
     "Beorg/Accesses/RDP.md",
     "Beorg/Quest/Вопросы Даше.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Сверки.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
-    "Daily/2024-08-28.md",
     "Daily/2024-05-06.md",
     "Daily/2024-05-02.md",
     "Mine/Masha's work.md",
@@ -284,9 +278,7 @@
     "Mine/Mine.md",
     "Mine/Pres.md",
     "Beorg/Accesses/CMD.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
     "Beorg/Accesses",
-    "Mine/Bot tg.md",
     "Beorg/Projects/VelesStroi/Схема работы.png",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Untitled",
     "Beorg/Projects/Ze old but gold",
