@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/НИОПИК/Общ..md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/НИОПИК/Общ..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/НИОПИК/Общ..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/GEN.md"
+                "file": "Beorg/Projects/НИОПИК/Общ..md"
               }
             }
           },
@@ -242,14 +242,18 @@
       "command-palette:Open command palette": false,
       "timer:Open timer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Beorg/GEN.md",
+    "Daily/2024-09-12.md",
+    "Daily/2024-09-09.md",
+    "Daily/2024-09-11.md",
     "Beorg/Projects/НИОПИК/НА чертеже.md",
     "Beorg/Projects/НИОПИК/Общ..md",
-    "Beorg/GEN.md",
     "Beorg/Projects/НИОПИК/Token.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
     "Daily/2024-09-03.md",
@@ -261,9 +265,7 @@
     "Beorg/Accesses/RDP.md",
     "Beorg/Projects/Мега-хит/Закрытие.md",
     "Beorg/Projects/Мега-хит/Мага-хит.md",
-    "Daily/2024-09-11.md",
     "Beorg/Projects/VelesStroi/Veles.md",
-    "Daily/2024-09-09.md",
     "Daily/2024-09-05.md",
     "Mine/Pres.md",
     "Mine/Mine.md",
@@ -275,7 +277,6 @@
     "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
     "[Beorg/Projects/RedOcean/Закрытие.md",
     "Beorg/Quest/Вопросы Даше.md",
-    "Beorg/Projects/RedOcean/ЗакрытиЁ.md",
     "Beorg/Projects/Ямми Груп",
     "[Beorg/Projects/RedOcean",
     "[Beorg/Projects",
