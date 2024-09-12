@@ -8,14 +8,9 @@
       "value": "#8fb36b"
     },
     {
-      "id": "rUdO4xMAaESYtxJwWpZh7",
-      "name": "2",
-      "value": "#6f9ac3"
-    },
-    {
       "id": "KzWRiGKL7fMtO22zqQRet",
-      "name": "",
-      "value": "#d21414"
+      "name": "2",
+      "value": "#c1d26a"
     }
   ],
   "fileColors": [
@@ -58,6 +53,14 @@
     {
       "path": "Beorg/Projects/Ямми Груп",
       "color": "ADwPkmukFPc0fEZo05evM"
+    },
+    {
+      "path": "Beorg/Projects/НИОПИК",
+      "color": "ADwPkmukFPc0fEZo05evM"
+    },
+    {
+      "path": "Beorg/Projects/Ze old but gold",
+      "color": "KzWRiGKL7fMtO22zqQRet"
     }
   ]
 }
