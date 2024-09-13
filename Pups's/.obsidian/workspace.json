@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/API's/Велес-строй мой токин.md",
+                "file": "Beorg/Projects/Главная смена - Кадры/Главная смена - 3.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -78,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/API's/Велес-строй мой токин.md",
+                "file": "Beorg/Projects/Миненков.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/API's/Велес-строй мой токин.md",
+                "file": "Beorg/Projects/Миненков.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/API's/Велес-строй мой токин.md"
+                "file": "Beorg/Projects/Миненков.md"
               }
             }
           },
@@ -214,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,14 +231,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fbfb6231038ca67",
+  "active": "09a607841238e9d7",
   "lastOpenFiles": [
+    "Beorg/Projects/Главная смена - Кадры/Главная смена - 3.1.md",
+    "Beorg/Projects/Главная смена - Кадры/Главная смена бюджет.md",
+    "Beorg/GEN.md",
     "Beorg/Projects/Миненков.md",
+    "Beorg/API's/Велес-строй мой токин.md",
     "Beorg/API's/Web_pasport_bio.md",
     "Beorg/Projects/Aviasales/Aviasales Gen/Reform Test and boi.md",
-    "Beorg/API's/Велес-строй мой токин.md",
     "Beorg/Projects/VelesStroi/Veles.md",
-    "Beorg/GEN.md",
     "Beorg/Projects/Aviasales/Aviasales General.md",
     "Mine/Bot tg.md",
     "[[Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
@@ -265,8 +268,6 @@
     "[Beorg/Projects",
     "[Beorg",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ reclaim.md",
-    "Beorg/Projects/MODIS.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
     "AviaSales",
     "Untitled.canvas"
   ]
