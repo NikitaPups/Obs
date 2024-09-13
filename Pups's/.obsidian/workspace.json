@@ -1,31 +1,39 @@
 {
   "main": {
-    "id": "214db2c218da5e27",
+    "id": "2eec1c00f203b79f",
     "type": "split",
     "children": [
       {
-        "id": "b93a85edb8b87ae9",
+        "id": "8e90d53d939b7d7a",
         "type": "tabs",
         "children": [
           {
-            "id": "2fbfb6231038ca67",
+            "id": "22821e6c51c66bcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Главная смена - Кадры/Главная смена - 3.1.md",
+                "file": "Beorg/GEN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "09a607841238e9d7",
+            "id": "f6301ceaf4b02e12",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bda0bf30ff44e25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Миненков.md",
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
                 "mode": "source",
                 "source": false
               }
@@ -39,40 +47,40 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "422cfc63ccae0664",
+    "id": "40b18d122f2042d0",
     "type": "split",
     "children": [
       {
-        "id": "6fcf4d1a54034201",
+        "id": "2d3a13b34e2f8eca",
         "type": "tabs",
         "children": [
           {
-            "id": "751b248897dbe0e0",
+            "id": "91511f578a2dd785",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "fb1e6756e1a8218c",
+            "id": "ee86eb6e5857fe19",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
-                "extraContext": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "5a6f7f472c66bdfd",
+            "id": "2862679650ed46fd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,30 +91,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 300
   },
   "right": {
-    "id": "bf68e83950daa576",
+    "id": "630daf9b7936e9db",
     "type": "split",
     "children": [
       {
-        "id": "a9b1731176ca9634",
+        "id": "4439cc49581a91d0",
         "type": "tabs",
-        "dimension": 32.62342691190707,
         "children": [
           {
-            "id": "92b48a2a41771e90",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "4452afb3b24eb42e",
+            "id": "8903c5dc45afeca8",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -114,12 +110,11 @@
             }
           },
           {
-            "id": "2941bc88899b3cd5",
+            "id": "07a44e38c842862f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/Миненков.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,19 +126,37 @@
             }
           },
           {
-            "id": "940966413498c866",
+            "id": "f4f96c08de041554",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/Миненков.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ea6c8ad283ea8dbc",
+            "id": "6522e557609140fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bd139a1baa3dff4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "14737784a7ad08a6",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -151,56 +164,7 @@
             }
           },
           {
-            "id": "24e8847da8748bd7",
-            "type": "leaf",
-            "state": {
-              "type": "Timer",
-              "state": {}
-            }
-          },
-          {
-            "id": "280fe15d0e7ef9a5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Beorg/Projects/Миненков.md"
-              }
-            }
-          },
-          {
-            "id": "927a4aa29e28f9ef",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "94f4fc0e62dd0567",
-        "type": "tabs",
-        "dimension": 34.462729912875126,
-        "children": [
-          {
-            "id": "974662937cbfbf20",
-            "type": "leaf",
-            "state": {
-              "type": "Timer",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "ea455302cfef1810",
-        "type": "tabs",
-        "dimension": 32.91384317521781,
-        "children": [
-          {
-            "id": "b618dcc41e828945",
+            "id": "1ae27dcafbfd68bd",
             "type": "leaf",
             "state": {
               "type": "daily-note-outline",
@@ -214,61 +178,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "timer:Open timer": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "timer:Open timer": false,
-      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "09a607841238e9d7",
+  "active": "f6301ceaf4b02e12",
   "lastOpenFiles": [
-    "Beorg/Projects/Главная смена - Кадры/Главная смена - 3.1.md",
-    "Beorg/Projects/Главная смена - Кадры/Главная смена бюджет.md",
+    "conflict-files-obsidian-git.md",
     "Beorg/GEN.md",
-    "Beorg/Projects/Миненков.md",
-    "Beorg/API's/Велес-строй мой токин.md",
-    "Beorg/API's/Web_pasport_bio.md",
-    "Beorg/Projects/Aviasales/Aviasales Gen/Reform Test and boi.md",
-    "Beorg/Projects/VelesStroi/Veles.md",
-    "Beorg/Projects/Aviasales/Aviasales General.md",
-    "Mine/Bot tg.md",
-    "[[Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
-    "[[Beorg/Projects/VelesStroi/VelesStroi obsh",
-    "[[Beorg/Projects/VelesStroi",
-    "[[Beorg/Projects",
-    "[[Beorg",
-    "Beorg/Projects/БКС токен.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
+    "Beorg/Projects/НИОПИК/Общ..md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Beorg/Projects/La Vivion/La vivion Бюджет промо.md",
-    "Beorg/Projects/Aviasales/FAQ.md",
-    "2024-06-14.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрири ККK/Убрир кк.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
-    "Mine/Pres.md",
-    "Mine/Mine.md",
-    "Beorg/API's/Aviasales Token.md",
-    "[Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
-    "Mine",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
-    "[Beorg/Projects/VelesStroi/VelesStroi obsh",
-    "[Beorg/Projects/VelesStroi",
-    "[Beorg/Projects",
-    "[Beorg",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ reclaim.md",
-    "AviaSales",
-    "Untitled.canvas"
+    "Beorg/Projects/Ямми Груп/Таблица.md",
+    "Beorg/Projects/НИОПИК/Token.md"
   ]
 }

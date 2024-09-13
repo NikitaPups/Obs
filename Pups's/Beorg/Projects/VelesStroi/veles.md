@@ -3,7 +3,7 @@
 [[Reform TETS and boi]]
 
 ---
-[[[[Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ|FAQ]]
+[[[Beorg/Projects/VelesStroi/FAQ|FAQ]]
 [[FAQ reclaim]]
 ## BOI:
 

@@ -1,0 +1,3 @@
+Rdp: 192.168.5.101
+Zaginaylov
+9GEFPZhgg2AfTS7J
