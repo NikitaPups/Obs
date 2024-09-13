@@ -1,61 +1,52 @@
 {
   "main": {
-    "id": "2eec1c00f203b79f",
+    "id": "214db2c218da5e27",
     "type": "split",
     "children": [
       {
-        "id": "8e90d53d939b7d7a",
+        "id": "b93a85edb8b87ae9",
         "type": "tabs",
         "children": [
           {
-            "id": "22821e6c51c66bcd",
+            "id": "2fbfb6231038ca67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/НИОПИК/Token.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f6301ceaf4b02e12",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3bda0bf30ff44e25",
+            "id": "09a607841238e9d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "40b18d122f2042d0",
+    "id": "422cfc63ccae0664",
     "type": "split",
     "children": [
       {
-        "id": "2d3a13b34e2f8eca",
+        "id": "6fcf4d1a54034201",
         "type": "tabs",
         "children": [
           {
-            "id": "91511f578a2dd785",
+            "id": "751b248897dbe0e0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,22 +56,22 @@
             }
           },
           {
-            "id": "ee86eb6e5857fe19",
+            "id": "fb1e6756e1a8218c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "2862679650ed46fd",
+            "id": "5a6f7f472c66bdfd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,18 +82,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "630daf9b7936e9db",
+    "id": "bf68e83950daa576",
     "type": "split",
     "children": [
       {
-        "id": "4439cc49581a91d0",
+        "id": "a9b1731176ca9634",
         "type": "tabs",
+        "dimension": 30.306122448979593,
         "children": [
           {
-            "id": "8903c5dc45afeca8",
+            "id": "92b48a2a41771e90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4452afb3b24eb42e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -110,11 +113,12 @@
             }
           },
           {
-            "id": "07a44e38c842862f",
+            "id": "2941bc88899b3cd5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Beorg/Projects/НИОПИК/Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,37 +130,19 @@
             }
           },
           {
-            "id": "f4f96c08de041554",
+            "id": "940966413498c866",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Beorg/Projects/НИОПИК/Token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6522e557609140fc",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "3bd139a1baa3dff4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "14737784a7ad08a6",
+            "id": "ea6c8ad283ea8dbc",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -164,7 +150,72 @@
             }
           },
           {
-            "id": "1ae27dcafbfd68bd",
+            "id": "24e8847da8748bd7",
+            "type": "leaf",
+            "state": {
+              "type": "Timer",
+              "state": {}
+            }
+          },
+          {
+            "id": "280fe15d0e7ef9a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Beorg/Projects/НИОПИК/Token.md"
+              }
+            }
+          },
+          {
+            "id": "927a4aa29e28f9ef",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdf358f5ba1b2b15",
+            "type": "leaf",
+            "state": {
+              "type": "Timer",
+              "state": {}
+            }
+          },
+          {
+            "id": "839f5379025d61bc",
+            "type": "leaf",
+            "state": {
+              "type": "Timer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "94f4fc0e62dd0567",
+        "type": "tabs",
+        "dimension": 32.55102040816327,
+        "children": [
+          {
+            "id": "974662937cbfbf20",
+            "type": "leaf",
+            "state": {
+              "type": "Timer",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ea455302cfef1810",
+        "type": "tabs",
+        "dimension": 37.142857142857146,
+        "children": [
+          {
+            "id": "b618dcc41e828945",
             "type": "leaf",
             "state": {
               "type": "daily-note-outline",
@@ -178,31 +229,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "timer:Open timer": false,
-      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "periodic-notes:Open today": false
+      "timer:Open timer": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6301ceaf4b02e12",
+  "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Beorg/GEN.md",
+    "Beorg/Projects/Ze old but gold/Главная смена - Кадры/Главная смена - 3.1.md",
     "Beorg/Projects/НИОПИК/Общ..md",
+    "Beorg/GEN.md",
+    "Daily/2024-09-12.md",
+    "Daily/2024-09-09.md",
+    "Daily/2024-09-11.md",
+    "Beorg/Projects/НИОПИК/НА чертеже.md",
+    "Beorg/Projects/НИОПИК/Token.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
+    "Daily/2024-09-03.md",
+    "Daily/2024-09-04.md",
+    "Beorg/Projects/НИОПИК/Pasted image 20240912122217.png",
+    "Beorg/Projects/НИОПИК",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/Ямми Груп/Таблица.md",
-    "Beorg/Projects/НИОПИК/Token.md"
+    "Beorg/Accesses/RDP.md",
+    "Beorg/Projects/Мега-хит/Закрытие.md",
+    "Beorg/Projects/Мега-хит/Мага-хит.md",
+    "Beorg/Projects/VelesStroi/Veles.md",
+    "Daily/2024-09-05.md",
+    "Mine/Pres.md",
+    "Mine/Mine.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
+    "Beorg/Projects/VelesStroi/FAQ.md",
+    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ reclaim.md",
+    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
+    "Beorg/Projects/VelesStroi/Схема работы.png",
+    "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
+    "[Beorg/Projects/RedOcean/Закрытие.md",
+    "Beorg/Projects/Ямми Груп",
+    "[Beorg/Projects/RedOcean",
+    "[Beorg/Projects",
+    "[Beorg",
+    "Beorg/Projects/Red_ocean",
+    "Beorg/Projects/Мега-хит",
+    "Beorg/Accesses",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/Untitled",
+    "Beorg/Projects/Ze old but gold",
+    "Untitled.canvas"
   ]
 }
