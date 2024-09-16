@@ -13,30 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-09-12.md",
+                "file": "Beorg/Projects/НИОПИК/Пометки.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cd2493325736d033",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "09a607841238e9d7",
+            "id": "52bc1f270ab7ca4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
+                "file": "Beorg/Projects/НИОПИК/Сообщение.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "d27b7fd93746ae29",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ],
@@ -86,6 +86,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "92b48a2a41771e90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
           }
         ]
       }
@@ -98,115 +109,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a9b1731176ca9634",
+        "id": "48df7800bd2c00ba",
         "type": "tabs",
-        "dimension": 30.306122448979593,
+        "dimension": 28.162511542012926,
         "children": [
           {
-            "id": "92b48a2a41771e90",
+            "id": "253530c0c1be800f",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "4452afb3b24eb42e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "2941bc88899b3cd5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Daily/2024-09-12.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "940966413498c866",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Daily/2024-09-12.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ea6c8ad283ea8dbc",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "24e8847da8748bd7",
-            "type": "leaf",
-            "state": {
-              "type": "Timer",
-              "state": {}
-            }
-          },
-          {
-            "id": "280fe15d0e7ef9a5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Daily/2024-09-12.md"
-              }
-            }
-          },
-          {
-            "id": "927a4aa29e28f9ef",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "cdf358f5ba1b2b15",
-            "type": "leaf",
-            "state": {
-              "type": "Timer",
-              "state": {}
-            }
-          },
-          {
-            "id": "839f5379025d61bc",
-            "type": "leaf",
-            "state": {
-              "type": "Timer",
+              "type": "fantasy-statblocks-creature-pane",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "94f4fc0e62dd0567",
         "type": "tabs",
-        "dimension": 32.55102040816327,
+        "dimension": 33.148661126500464,
         "children": [
           {
             "id": "974662937cbfbf20",
@@ -221,7 +141,7 @@
       {
         "id": "ea455302cfef1810",
         "type": "tabs",
-        "dimension": 37.142857142857146,
+        "dimension": 38.688827331486614,
         "children": [
           {
             "id": "b618dcc41e828945",
@@ -253,14 +173,22 @@
       "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "cd2493325736d033",
+  "active": "52bc1f270ab7ca4b",
   "lastOpenFiles": [
+    "Beorg/Projects/НИОПИК/Пометки.md",
+    "Beorg/Projects/НИОПИК/Сообщение.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
+    "Beorg/Projects/НИОПИК/Общ..md",
+    "Beorg/GEN.md",
+    "Beorg/Projects/НИОПИК/Лист.md",
+    "Daily/2024-09-12.md",
+    "Full calendar/2024-09-16 12321.md",
     "Full calendar/2024-09-16 1.md",
     "Full calendar/2024-09-16 5.md",
-    "Daily/2024-09-12.md",
     "Daily/2024-09-16.md",
     "Daily/2024-05-02.md",
     "Daily",
@@ -268,11 +196,7 @@
     "Full calendar/2024-09-16 3.md",
     "Full calendar/2024-09-16 2.md",
     "Daily/2024-09-17.md",
-    "Beorg/GEN.md",
-    "Beorg/Projects/НИОПИК/Лист.md",
-    "Beorg/Projects/НИОПИК/Общ..md",
     "Beorg/Projects/НИОПИК/Token.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
     "Beorg/Projects/Ze old but gold/Главная смена - Кадры/Главная смена - 3.1.md",
     "Daily/2024-09-09.md",
     "Daily/2024-09-11.md",
@@ -284,8 +208,6 @@
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/Ямми Груп/Таблица.md",
     "Beorg/Accesses/RDP.md",
-    "Beorg/Projects/Мега-хит/Закрытие.md",
-    "Beorg/Projects/Мега-хит/Мага-хит.md",
     "Beorg/Projects/VelesStroi/Схема работы.png",
     "Beorg/Projects/Ямми Груп",
     "[Beorg/Projects/RedOcean",
