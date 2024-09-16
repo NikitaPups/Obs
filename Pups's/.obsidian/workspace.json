@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/НИОПИК/Лист.md",
+                "file": "Daily/2024-09-12.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "cd2493325736d033",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           },
           {
@@ -32,6 +40,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/НИОПИК/Лист.md",
+                "file": "Daily/2024-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/НИОПИК/Лист.md",
+                "file": "Daily/2024-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/НИОПИК/Лист.md"
+                "file": "Daily/2024-09-12.md"
               }
             }
           },
@@ -243,18 +252,28 @@
       "timer:Open timer": false,
       "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2fbfb6231038ca67",
+  "active": "cd2493325736d033",
   "lastOpenFiles": [
-    "Beorg/Projects/НИОПИК/Общ..md",
+    "Full calendar/2024-09-16 1.md",
+    "Full calendar/2024-09-16 5.md",
+    "Daily/2024-09-12.md",
+    "Daily/2024-09-16.md",
+    "Daily/2024-05-02.md",
+    "Daily",
+    "Full calendar/2024-09-16 4.md",
+    "Full calendar/2024-09-16 3.md",
+    "Full calendar/2024-09-16 2.md",
+    "Daily/2024-09-17.md",
     "Beorg/GEN.md",
     "Beorg/Projects/НИОПИК/Лист.md",
+    "Beorg/Projects/НИОПИК/Общ..md",
     "Beorg/Projects/НИОПИК/Token.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
     "Beorg/Projects/Ze old but gold/Главная смена - Кадры/Главная смена - 3.1.md",
-    "Daily/2024-09-12.md",
     "Daily/2024-09-09.md",
     "Daily/2024-09-11.md",
     "Beorg/Projects/НИОПИК/НА чертеже.md",
@@ -267,16 +286,7 @@
     "Beorg/Accesses/RDP.md",
     "Beorg/Projects/Мега-хит/Закрытие.md",
     "Beorg/Projects/Мега-хит/Мага-хит.md",
-    "Beorg/Projects/VelesStroi/Veles.md",
-    "Daily/2024-09-05.md",
-    "Mine/Pres.md",
-    "Mine/Mine.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
-    "Beorg/Projects/VelesStroi/FAQ.md",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ reclaim.md",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
     "Beorg/Projects/VelesStroi/Схема работы.png",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
     "Beorg/Projects/Ямми Груп",
     "[Beorg/Projects/RedOcean",
     "[Beorg/Projects",
@@ -285,7 +295,6 @@
     "Beorg/Projects/Мега-хит",
     "Beorg/Accesses",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Untitled",
-    "Beorg/Projects/Ze old but gold",
     "Untitled.canvas"
   ]
 }

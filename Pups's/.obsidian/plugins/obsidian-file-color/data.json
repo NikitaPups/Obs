@@ -27,7 +27,7 @@
       "color": "ADwPkmukFPc0fEZo05evM"
     },
     {
-      "path": "Daily",
+      "path": "Full calendar",
       "color": "ADwPkmukFPc0fEZo05evM"
     },
     {
@@ -61,6 +61,10 @@
     {
       "path": "Beorg/Projects/Ze old but gold",
       "color": "KzWRiGKL7fMtO22zqQRet"
+    },
+    {
+      "path": "Daily",
+      "color": "ADwPkmukFPc0fEZo05evM"
     }
   ]
 }
