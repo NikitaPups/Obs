@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/НИОПИК/Token.md",
+                "file": "Beorg/Projects/НИОПИК/Лист.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/НИОПИК/Token.md",
+                "file": "Beorg/Projects/НИОПИК/Лист.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/НИОПИК/Token.md",
+                "file": "Beorg/Projects/НИОПИК/Лист.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/НИОПИК/Token.md"
+                "file": "Beorg/Projects/НИОПИК/Лист.md"
               }
             }
           },
@@ -248,15 +248,16 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
-    "Beorg/Projects/Ze old but gold/Главная смена - Кадры/Главная смена - 3.1.md",
     "Beorg/Projects/НИОПИК/Общ..md",
     "Beorg/GEN.md",
+    "Beorg/Projects/НИОПИК/Лист.md",
+    "Beorg/Projects/НИОПИК/Token.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
+    "Beorg/Projects/Ze old but gold/Главная смена - Кадры/Главная смена - 3.1.md",
     "Daily/2024-09-12.md",
     "Daily/2024-09-09.md",
     "Daily/2024-09-11.md",
     "Beorg/Projects/НИОПИК/НА чертеже.md",
-    "Beorg/Projects/НИОПИК/Token.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
     "Daily/2024-09-03.md",
     "Daily/2024-09-04.md",
     "Beorg/Projects/НИОПИК/Pasted image 20240912122217.png",
@@ -276,7 +277,6 @@
     "Beorg/Projects/VelesStroi/VelesStroi obsh/FAQ.md",
     "Beorg/Projects/VelesStroi/Схема работы.png",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
-    "[Beorg/Projects/RedOcean/Закрытие.md",
     "Beorg/Projects/Ямми Груп",
     "[Beorg/Projects/RedOcean",
     "[Beorg/Projects",
