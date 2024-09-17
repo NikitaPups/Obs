@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/НИОПИК/Пометки.md",
+                "file": "Beorg/GEN.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -111,7 +110,7 @@
       {
         "id": "48df7800bd2c00ba",
         "type": "tabs",
-        "dimension": 28.162511542012926,
+        "dimension": 30.56325023084026,
         "children": [
           {
             "id": "253530c0c1be800f",
@@ -126,7 +125,7 @@
       {
         "id": "94f4fc0e62dd0567",
         "type": "tabs",
-        "dimension": 33.148661126500464,
+        "dimension": 27.42382271468144,
         "children": [
           {
             "id": "974662937cbfbf20",
@@ -141,7 +140,7 @@
       {
         "id": "ea455302cfef1810",
         "type": "tabs",
-        "dimension": 38.688827331486614,
+        "dimension": 42.0129270544783,
         "children": [
           {
             "id": "b618dcc41e828945",
@@ -177,8 +176,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "52bc1f270ab7ca4b",
+  "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Daily/2024-09-17.md",
+    "Daily/2024-09-11.md",
     "Beorg/Projects/НИОПИК/Пометки.md",
     "Beorg/Projects/НИОПИК/Сообщение.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
@@ -195,11 +196,9 @@
     "Full calendar/2024-09-16 4.md",
     "Full calendar/2024-09-16 3.md",
     "Full calendar/2024-09-16 2.md",
-    "Daily/2024-09-17.md",
     "Beorg/Projects/НИОПИК/Token.md",
     "Beorg/Projects/Ze old but gold/Главная смена - Кадры/Главная смена - 3.1.md",
     "Daily/2024-09-09.md",
-    "Daily/2024-09-11.md",
     "Beorg/Projects/НИОПИК/НА чертеже.md",
     "Daily/2024-09-03.md",
     "Daily/2024-09-04.md",
