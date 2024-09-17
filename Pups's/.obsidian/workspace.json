@@ -119,8 +119,17 @@
               "type": "fantasy-statblocks-creature-pane",
               "state": {}
             }
+          },
+          {
+            "id": "bccf9fedbc03b8d5",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "94f4fc0e62dd0567",
@@ -173,18 +182,19 @@
       "periodic-notes:Open today": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "rpg-manager:RPG Manager": false
     }
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Beorg/Projects/НИОПИК/Сообщение.md",
+    "Beorg/GEN.md",
     "Daily/2024-09-17.md",
     "Daily/2024-09-11.md",
     "Beorg/Projects/НИОПИК/Пометки.md",
-    "Beorg/Projects/НИОПИК/Сообщение.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
     "Beorg/Projects/НИОПИК/Общ..md",
-    "Beorg/GEN.md",
     "Beorg/Projects/НИОПИК/Лист.md",
     "Daily/2024-09-12.md",
     "Full calendar/2024-09-16 12321.md",
