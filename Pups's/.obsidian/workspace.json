@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "52bc1f270ab7ca4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beorg/GEN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "stacked": true
@@ -158,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +170,8 @@
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
     "Beorg/GEN.md",
-    "Beorg/Projects/НИОПИК/Сообщение.md",
     "Beorg/Projects/Ямми Груп/Таблица.md",
+    "Beorg/Projects/НИОПИК/Сообщение.md",
     "Beorg/Projects/НИОПИК/Лист.md",
     "Beorg/Projects/НИОПИК/Пометки.md",
     "Beorg/Projects/НИОПИК/Общ..md",
