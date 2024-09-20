@@ -25,18 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/НИОПИК/Сообщение.md",
+                "file": "Beorg/GEN.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "d27b7fd93746ae29",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
             }
           }
         ],
@@ -128,7 +120,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "94f4fc0e62dd0567",
@@ -188,10 +181,11 @@
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
     "Beorg/GEN.md",
+    "Beorg/Projects/НИОПИК/Сообщение.md",
+    "Beorg/Projects/Ямми Груп/Таблица.md",
     "Beorg/Projects/НИОПИК/Лист.md",
     "Beorg/Projects/НИОПИК/Пометки.md",
     "Beorg/Projects/НИОПИК/Общ..md",
-    "Beorg/Projects/НИОПИК/Сообщение.md",
     "Daily/2024-09-17.md",
     "Daily/2024-09-11.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
@@ -214,7 +208,6 @@
     "Beorg/Projects/НИОПИК/Pasted image 20240912122217.png",
     "Beorg/Projects/НИОПИК",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Beorg/Projects/Ямми Груп/Таблица.md",
     "Beorg/Accesses/RDP.md",
     "Beorg/Projects/VelesStroi/Схема работы.png",
     "Beorg/Projects/Ямми Груп",
