@@ -107,9 +107,17 @@
               "type": "rpg-manager-options",
               "state": {}
             }
+          },
+          {
+            "id": "74ef4e18ebe59c92",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "94f4fc0e62dd0567",
@@ -146,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
-    "collapsed": true
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
