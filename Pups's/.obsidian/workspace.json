@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
+                "file": "Beorg/GEN.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
+                "file": "Beorg/GEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
+                "file": "Beorg/GEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/Ямми Груп/Тестовые доступы.md"
+                "file": "Beorg/GEN.md"
               }
             }
           },
@@ -223,12 +223,13 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Beorg/Projects/Ямми Груп/TimeOut.md",
+    "Beorg/Projects/Ямми Груп/Untitled.md",
+    "Beorg/Projects/Ямми Груп/Закрытие.md",
     "Beorg/Projects/Ямми Груп/Таблица.md",
     "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
     "Beorg/GEN.md",
     "Beorg/API's/RKO.md",
-    "Beorg/Projects/Ямми Груп/Закрытие.md",
-    "Beorg/Projects/Ямми Груп/TimeOut.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
@@ -248,7 +249,6 @@
     "Daily/2024-09-12.md",
     "Full calendar/2024-09-16 12321.md",
     "Full calendar/2024-09-16 1.md",
-    "Full calendar/2024-09-16 5.md",
     "Daily",
     "Beorg/Projects/НИОПИК/Pasted image 20240912122217.png",
     "Beorg/Projects/НИОПИК",
