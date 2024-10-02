@@ -25319,7 +25319,7 @@ var TimerPlugin = class extends import_obsidian6.Plugin {
         "Set timer to",
         "Insert new timer in two ways:",
         async (result) => {
-          this.reload(Timer.set(result));
+          await this.reload(Timer.set(result));
         }
       ).open();
     };
@@ -25332,7 +25332,7 @@ var TimerPlugin = class extends import_obsidian6.Plugin {
           const newFavoriteTimer = Timer.set(result);
           if (!this.settings.favoriteTimers.contains(newFavoriteTimer.toString())) {
             this.settings.favoriteTimers.push(newFavoriteTimer.toString());
-            this.saveSettings();
+            await this.saveSettings();
           }
         }
       ).open();
@@ -25342,7 +25342,7 @@ var TimerPlugin = class extends import_obsidian6.Plugin {
         this.app,
         this.settings.favoriteTimers,
         async (result) => {
-          this.reload(Timer.set(result));
+          await this.reload(Timer.set(result));
         }
       ).open();
     };
@@ -25352,7 +25352,7 @@ var TimerPlugin = class extends import_obsidian6.Plugin {
         this.settings.favoriteTimers,
         async (result) => {
           this.settings.favoriteTimers.remove(result);
-          this.saveSettings();
+          await this.saveSettings();
         }
       ).open();
     };
@@ -25423,11 +25423,11 @@ var TimerPlugin = class extends import_obsidian6.Plugin {
     else await view.updateSettings(this.settings);
   }
   async loadSettings() {
-    this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+    this.settings = { ...DEFAULT_SETTINGS, ...await this.loadData() };
   }
   async saveSettings() {
     await this.saveData(this.settings);
-    this.reload();
+    await this.reload();
   }
 };
 /*! Bundled license information:

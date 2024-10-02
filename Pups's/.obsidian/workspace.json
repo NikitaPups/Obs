@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/API's/RKO.md",
+                "file": "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/API's/RKO.md",
+                "file": "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/API's/RKO.md",
+                "file": "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/API's/RKO.md"
+                "file": "Beorg/Projects/Ямми Груп/Тестовые доступы.md"
               }
             }
           },
@@ -163,7 +163,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "94f4fc0e62dd0567",
@@ -200,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
-    "collapsed": true
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,7 +224,9 @@
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
     "Beorg/Projects/Ямми Груп/Таблица.md",
+    "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
     "Beorg/GEN.md",
+    "Beorg/API's/RKO.md",
     "Beorg/Projects/Ямми Груп/Закрытие.md",
     "Beorg/Projects/Ямми Груп/TimeOut.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
@@ -238,7 +240,6 @@
     "Beorg/Projects/RedOcean/ЗакрытиЁ.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
     "Beorg/Projects/НИОПИК/Общ..md",
-    "Beorg/API's/RKO.md",
     "Beorg/Projects/НИОПИК/Сообщение.md",
     "Beorg/Projects/НИОПИК/Лист.md",
     "Beorg/Projects/НИОПИК/Пометки.md",
@@ -248,7 +249,6 @@
     "Full calendar/2024-09-16 12321.md",
     "Full calendar/2024-09-16 1.md",
     "Full calendar/2024-09-16 5.md",
-    "Daily/2024-09-16.md",
     "Daily",
     "Beorg/Projects/НИОПИК/Pasted image 20240912122217.png",
     "Beorg/Projects/НИОПИК",
