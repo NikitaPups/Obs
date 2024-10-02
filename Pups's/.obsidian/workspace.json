@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Ямми Груп/Таблица.md",
+                "file": "Beorg/API's/RKO.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/Ямми Груп/Таблица.md",
+                "file": "Beorg/API's/RKO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/Ямми Груп/Таблица.md",
+                "file": "Beorg/API's/RKO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/Ямми Груп/Таблица.md"
+                "file": "Beorg/API's/RKO.md"
               }
             }
           },
@@ -223,17 +223,20 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Beorg/Projects/Ямми Груп/Таблица.md",
     "Beorg/GEN.md",
-    "Beorg/Projects/Мега-хит/Закрытие.md",
+    "Beorg/Projects/Ямми Груп/Закрытие.md",
+    "Beorg/Projects/Ямми Груп/TimeOut.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Beorg/Accesses/RDP.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
-    "Beorg/Projects/Мега-хит/Мага-хит.md",
-    "Beorg/Projects/RedOcean/ЗакрытиЁ.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
+    "Beorg/Projects/Мега-хит/Закрытие.md",
+    "Beorg/Accesses/RDP.md",
+    "Beorg/Projects/Мега-хит/Мага-хит.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
+    "Beorg/Projects/RedOcean/ЗакрытиЁ.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
-    "Beorg/Projects/Ямми Груп/Таблица.md",
     "Beorg/Projects/НИОПИК/Общ..md",
     "Beorg/API's/RKO.md",
     "Beorg/Projects/НИОПИК/Сообщение.md",
@@ -246,10 +249,7 @@
     "Full calendar/2024-09-16 1.md",
     "Full calendar/2024-09-16 5.md",
     "Daily/2024-09-16.md",
-    "Daily/2024-05-02.md",
     "Daily",
-    "Full calendar/2024-09-16 4.md",
-    "Full calendar/2024-09-16 3.md",
     "Beorg/Projects/НИОПИК/Pasted image 20240912122217.png",
     "Beorg/Projects/НИОПИК",
     "Beorg/Projects/VelesStroi/Схема работы.png",
