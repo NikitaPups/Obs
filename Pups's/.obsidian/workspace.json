@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "990119a6f9f23b01",
+            "type": "leaf",
+            "state": {
+              "type": "iron-vault-onboarding",
+              "state": {}
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -162,6 +171,14 @@
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
+          },
+          {
+            "id": "6ca4991b3ef5352d",
+            "type": "leaf",
+            "state": {
+              "type": "iron-vault-sidebar-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -218,17 +235,19 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "rpg-manager:RPG Manager": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "iron-vault:Show Iron Vault commands": false
     }
   },
-  "active": "2fbfb6231038ca67",
+  "active": "990119a6f9f23b01",
   "lastOpenFiles": [
+    "2024-10-02.md",
+    "Beorg/Projects/Ямми Груп/Таблица.md",
+    "Beorg/GEN.md",
     "Beorg/Projects/Ямми Груп/TimeOut.md",
     "Beorg/Projects/Ямми Груп/Untitled.md",
     "Beorg/Projects/Ямми Груп/Закрытие.md",
-    "Beorg/Projects/Ямми Груп/Таблица.md",
     "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
-    "Beorg/GEN.md",
     "Beorg/API's/RKO.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
@@ -248,7 +267,6 @@
     "Daily/2024-09-11.md",
     "Daily/2024-09-12.md",
     "Full calendar/2024-09-16 12321.md",
-    "Full calendar/2024-09-16 1.md",
     "Daily",
     "Beorg/Projects/НИОПИК/Pasted image 20240912122217.png",
     "Beorg/Projects/НИОПИК",
