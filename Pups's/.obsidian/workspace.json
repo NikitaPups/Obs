@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-10-02.md",
+                "file": "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-10-02.md",
+                "file": "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-10-02.md",
+                "file": "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-10-02.md"
+                "file": "Beorg/Projects/Ямми Груп/Тестовые доступы.md"
               }
             }
           },
@@ -229,12 +229,13 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
-    "Daily/2024-10-03.md",
-    "Beorg/GEN.md",
-    "Daily/2024-10-02.md",
     "Beorg/Projects/Ямми Груп/Таблица.md",
+    "Beorg/GEN.md",
+    "Beorg/Accesses/RDP.md",
+    "Beorg/Projects/Ямми Груп/Ответ.md",
+    "Daily/2024-10-02.md",
+    "Daily/2024-10-03.md",
     "Beorg/Projects/Ямми Груп/TimeOut.md",
-    "Beorg/Projects/Ямми Груп/Untitled.md",
     "Beorg/Projects/Ямми Груп/Закрытие.md",
     "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
     "Beorg/API's/RKO.md",
@@ -243,7 +244,6 @@
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/Мега-хит/Закрытие.md",
-    "Beorg/Accesses/RDP.md",
     "Beorg/Projects/Мега-хит/Мага-хит.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
     "Beorg/Projects/RedOcean/ЗакрытиЁ.md",
