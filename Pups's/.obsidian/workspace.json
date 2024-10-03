@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Daily/2024-10-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Daily/2024-10-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Daily/2024-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/GEN.md"
+                "file": "Daily/2024-10-02.md"
               }
             }
           },
@@ -227,11 +227,12 @@
       "iron-vault:Show Iron Vault commands": false
     }
   },
-  "active": "b618dcc41e828945",
+  "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Daily/2024-10-03.md",
+    "Beorg/GEN.md",
     "Daily/2024-10-02.md",
     "Beorg/Projects/Ямми Груп/Таблица.md",
-    "Beorg/GEN.md",
     "Beorg/Projects/Ямми Груп/TimeOut.md",
     "Beorg/Projects/Ямми Груп/Untitled.md",
     "Beorg/Projects/Ямми Груп/Закрытие.md",
@@ -254,7 +255,6 @@
     "Daily/2024-09-17.md",
     "Daily/2024-09-11.md",
     "Daily/2024-09-12.md",
-    "Full calendar/2024-09-16 12321.md",
     "Daily",
     "Beorg/Projects/НИОПИК/Pasted image 20240912122217.png",
     "Beorg/Projects/НИОПИК",
