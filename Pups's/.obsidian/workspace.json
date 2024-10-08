@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/Aviasales/Ans.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/Aviasales/Ans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/Aviasales/Ans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/GEN.md"
+                "file": "Beorg/Projects/Aviasales/Ans.md"
               }
             }
           },
@@ -229,10 +229,10 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
-    "Beorg/Projects/Aviasales/Ans.md",
     "Beorg/Projects/Aviasales/Aviasales General.md",
-    "Beorg/Projects/Aviasales/FAQ.md",
     "Beorg/GEN.md",
+    "Beorg/Projects/Aviasales/Ans.md",
+    "Beorg/Projects/Aviasales/FAQ.md",
     "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
     "Beorg/Projects/Ямми Груп/Таблица.md",
     "Daily/2024-10-02.md",
