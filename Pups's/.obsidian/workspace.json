@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Ans.md",
+                "file": "Beorg/GEN.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Ans.md",
+                "file": "Beorg/GEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Ans.md",
+                "file": "Beorg/GEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/Aviasales/Ans.md"
+                "file": "Beorg/GEN.md"
               }
             }
           },
@@ -229,8 +229,8 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
-    "Beorg/Projects/Aviasales/Aviasales General.md",
     "Beorg/Projects/Aviasales/Ans.md",
+    "Beorg/Projects/Aviasales/Aviasales General.md",
     "Beorg/Projects/Aviasales/FAQ.md",
     "Beorg/GEN.md",
     "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
