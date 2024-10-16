@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Accesses/RDP.md",
+                "file": "[Beorg/Projects/VelesStroi/FAQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Accesses/RDP.md",
+                "file": "[Beorg/Projects/VelesStroi/FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Accesses/RDP.md",
+                "file": "[Beorg/Projects/VelesStroi/FAQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Accesses/RDP.md"
+                "file": "[Beorg/Projects/VelesStroi/FAQ.md"
               }
             }
           },
@@ -227,19 +227,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fbfb6231038ca67",
+  "active": "751b248897dbe0e0",
   "lastOpenFiles": [
+    "Beorg/Projects/VelesStroi/FOTO",
+    "Beorg/Projects/VelesStroi/Untitled.md",
+    "[Beorg/Projects/VelesStroi/FAQ.md",
+    "Beorg/Projects/VelesStroi/FOTO/Pasted image 20241016162340.png",
+    "Beorg/Projects/VelesStroi/Veles.md",
     "Beorg/GEN.md",
+    "Beorg/API's/Велес-строй мой токин.md",
+    "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
+    "Beorg/Projects/НИОПИК/Общ..md",
+    "Beorg/Projects/Общее/Общее.md",
+    "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
+    "Beorg/Projects/Ямми Груп/Таблица.md",
+    "Beorg/Accesses/RDP.md",
+    "Beorg/Projects/Общее",
+    "Beorg/Projects/Untitled.md",
     "Beorg/Projects/Aviasales/Aviasales General.md",
     "Beorg/Projects/Aviasales/Ans.md",
     "Beorg/Projects/Aviasales/FAQ.md",
-    "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
-    "Beorg/Projects/Ямми Груп/Таблица.md",
     "Daily/2024-10-02.md",
     "Beorg/Projects/Мега-хит/Мага-хит.md",
     "Beorg/Projects/VelesStroi/Динамические поля.md",
-    "[Beorg/Projects/VelesStroi/FAQ.md",
-    "Beorg/Projects/VelesStroi/Veles.md",
     "[Beorg/Projects/VelesStroi",
     "[Beorg/Projects",
     "[Beorg",
@@ -247,17 +257,9 @@
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/Мега-хит/Закрытие.md",
-    "Beorg/Accesses/RDP.md",
     "Beorg/Accesses/CMD.md",
     "Beorg/Projects/Ямми Груп/Ответ.md",
     "Daily/2024-10-03.md",
-    "Beorg/Projects/Ямми Груп/TimeOut.md",
-    "Beorg/Projects/Ямми Груп/Закрытие.md",
-    "Beorg/API's/RKO.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
-    "Beorg/Projects/RedOcean/ЗакрытиЁ.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
     "Daily",
     "Beorg/Projects/НИОПИК/Pasted image 20240912122217.png",
     "Beorg/Projects/НИОПИК",
@@ -266,7 +268,6 @@
     "[Beorg/Projects/RedOcean",
     "Beorg/Projects/Red_ocean",
     "Beorg/Projects/Мега-хит",
-    "Beorg/Accesses",
     "Untitled.canvas"
   ]
 }
