@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[Beorg/Projects/VelesStroi/FAQ.md",
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "[Beorg/Projects/VelesStroi/FAQ.md",
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "[Beorg/Projects/VelesStroi/FAQ.md",
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "[Beorg/Projects/VelesStroi/FAQ.md"
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md"
               }
             }
           },
@@ -227,14 +227,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "751b248897dbe0e0",
+  "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/GEN.md",
+    "Beorg/API's/Убрири ТОкени.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
+    "[Beorg/Projects/VelesStroi/FAQ.md",
     "Beorg/Projects/VelesStroi/FOTO",
     "Beorg/Projects/VelesStroi/Untitled.md",
-    "[Beorg/Projects/VelesStroi/FAQ.md",
     "Beorg/Projects/VelesStroi/FOTO/Pasted image 20241016162340.png",
     "Beorg/Projects/VelesStroi/Veles.md",
-    "Beorg/GEN.md",
     "Beorg/API's/Велес-строй мой токин.md",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
     "Beorg/Projects/НИОПИК/Общ..md",
@@ -253,8 +256,6 @@
     "[Beorg/Projects/VelesStroi",
     "[Beorg/Projects",
     "[Beorg",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/Мега-хит/Закрытие.md",
     "Beorg/Accesses/CMD.md",
@@ -267,7 +268,6 @@
     "Beorg/Projects/Ямми Груп",
     "[Beorg/Projects/RedOcean",
     "Beorg/Projects/Red_ocean",
-    "Beorg/Projects/Мега-хит",
     "Untitled.canvas"
   ]
 }
