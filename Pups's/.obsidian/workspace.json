@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GEN"
+              "title": "УбРиР Общ."
             }
           },
           {
-            "id": "04be88ceb68d19cc",
+            "id": "58211f360cbc5b0e",
             "type": "leaf",
             "state": {
               "type": "iron-vault-onboarding",
@@ -283,9 +283,10 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Beorg/GEN.md",
+    "Beorg/Projects/VelesStroi/Veles.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Beorg/GEN.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
     "Beorg/Projects/Мега-хит/Закрытие.md",
     "Beorg/Projects/Мега-хит/Мага-хит.md",
@@ -297,7 +298,6 @@
     "Beorg/Projects/VelesStroi/FOTO",
     "Beorg/Projects/VelesStroi/Untitled.md",
     "Beorg/Projects/VelesStroi/FOTO/Pasted image 20241016162340.png",
-    "Beorg/Projects/VelesStroi/Veles.md",
     "Beorg/API's/Велес-строй мой токин.md",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
     "Beorg/Projects/НИОПИК/Общ..md",
