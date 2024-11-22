@@ -22,28 +22,6 @@
             }
           },
           {
-            "id": "e42e885944c06952",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "6dadee115f578eca",
-            "type": "leaf",
-            "state": {
-              "type": "iron-vault-onboarding",
-              "state": {},
-              "icon": "iron-vault",
-              "title": "Welcome to Iron Vault!"
-            }
-          },
-          {
             "id": "d6d992b5ee4a2de2",
             "type": "leaf",
             "state": {
@@ -295,12 +273,12 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
+    "Beorg/Projects/Мега-хит/Закрытие.md",
     "Beorg/Projects/Мега-хит/Мага-хит.md",
     "Beorg/GEN.md",
     "Beorg/Accesses/RDP.md",
     "Beorg/Projects/VelesStroi/Veles.md",
-    "Beorg/Projects/Мега-хит/Закрытие.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
     "Beorg/Projects/Aviasales/Aviasales General.md",
