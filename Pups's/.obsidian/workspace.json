@@ -22,6 +22,28 @@
             }
           },
           {
+            "id": "e42e885944c06952",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "6dadee115f578eca",
+            "type": "leaf",
+            "state": {
+              "type": "iron-vault-onboarding",
+              "state": {},
+              "icon": "iron-vault",
+              "title": "Welcome to Iron Vault!"
+            }
+          },
+          {
             "id": "d6d992b5ee4a2de2",
             "type": "leaf",
             "state": {
@@ -34,31 +56,8 @@
               "icon": "lucide-file",
               "title": "УбРиР Ип"
             }
-          },
-          {
-            "id": "7dc3bf784ad76a5f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
-            "id": "b7c4eb6ca1f59f6d",
-            "type": "leaf",
-            "state": {
-              "type": "iron-vault-onboarding",
-              "state": {},
-              "icon": "iron-vault",
-              "title": "Welcome to Iron Vault!"
-            }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -294,19 +293,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b7c4eb6ca1f59f6d",
+  "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Beorg/Projects/Мега-хит/Мага-хит.md",
+    "Beorg/GEN.md",
+    "Beorg/Accesses/RDP.md",
+    "Beorg/Projects/VelesStroi/Veles.md",
     "Beorg/Projects/Мега-хит/Закрытие.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Beorg/GEN.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
-    "Beorg/Projects/Мега-хит/Мага-хит.md",
     "Beorg/Projects/Aviasales/Aviasales General.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
-    "Beorg/Accesses/RDP.md",
-    "Beorg/Projects/VelesStroi/Veles.md",
     "Beorg/Projects/Общее/Общее.md",
     "Beorg/API's/Убрири ТОкени.md",
     "[Beorg/Projects/VelesStroi/FAQ.md",
