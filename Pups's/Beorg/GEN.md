@@ -10,8 +10,3 @@
 | Общее       | [[Общее]]             |           |
 Шаблоны договоров: \\vps-rhs.beorg.local\Шаблоны документов_ new_ 2023
 
-=ТЕКСТ.СЦЕПИТЬ(ЕСЛИ(_24SBRNK_ARCH_22_11_2024[@DEVELOPER]<>"";_24SBRNK_ARCH_22_11_2024[@DEVELOPER];"");
-               ЕСЛИ(И(_24SBRNK_ARCH_22_11_2024[@DEVELOPER]<>"";_24SBRNK_ARCH_22_11_2024[@[INVENTORY_NUMBER]]<>"");"_";""); ЕСЛИ(_24SBRNK_ARCH_22_11_2024[@[INVENTORY_NUMBER]]<>"";_24SBRNK_ARCH_22_11_2024[@[INVENTORY_NUMBER]];"");
-               ЕСЛИ(И(_24SBRNK_ARCH_22_11_2024[@[INVENTORY_NUMBER]]<>"";_24SBRNK_ARCH_22_11_2024[@[DOC_TYPE]]<>"");"_";""); ЕСЛИ(_24SBRNK_ARCH_22_11_2024[@[DOC_TYPE]]<>"";_24SBRNK_ARCH_22_11_2024[@[DOC_TYPE]];"");
-               ЕСЛИ(И(_24SBRNK_ARCH_22_11_2024[@[DOC_TYPE]]<>"";_24SBRNK_ARCH_22_11_2024[@[DOC_NAME]]<>"");"_";""); ЕСЛИ(_24SBRNK_ARCH_22_11_2024[@[DOC_NAME]]<>"";_24SBRNK_ARCH_22_11_2024[@[DOC_NAME]];"");
-               ЕСЛИ(И(_24SBRNK_ARCH_22_11_2024[@DEVELOPER]<>"";_24SBRNK_ARCH_22_11_2024[@[SHEETS_NUM]]<>"");"_";""); ЕСЛИ(_24SBRNK_ARCH_22_11_2024[@[SHEETS_NUM]]<>"";_24SBRNK_ARCH_22_11_2024[@[SHEETS_NUM]];""))

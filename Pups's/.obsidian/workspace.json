@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/GEN.md",
+                "file": "Beorg/Accesses/RDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GEN"
+              "title": "RDP"
+            }
+          },
+          {
+            "id": "0e849a34510b15b5",
+            "type": "leaf",
+            "state": {
+              "type": "iron-vault-onboarding",
+              "state": {},
+              "icon": "iron-vault",
+              "title": "Welcome to Iron Vault!"
             }
           },
           {
@@ -36,6 +46,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -273,10 +284,10 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Beorg/GEN.md",
     "Beorg/Projects/Мега-хит/Закрытие.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/Мега-хит/Мага-хит.md",
-    "Beorg/GEN.md",
     "Beorg/Accesses/RDP.md",
     "Beorg/Projects/VelesStroi/Veles.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
