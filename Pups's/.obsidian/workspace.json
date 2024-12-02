@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Accesses/RDP.md",
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RDP"
-            }
-          },
-          {
-            "id": "0e849a34510b15b5",
-            "type": "leaf",
-            "state": {
-              "type": "iron-vault-onboarding",
-              "state": {},
-              "icon": "iron-vault",
-              "title": "Welcome to Iron Vault!"
+              "title": "ubriri DK выгрузка"
             }
           },
           {
@@ -37,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
+                "file": "Beorg/Projects/Ямми Груп/Таблица.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "УбРиР Ип"
+              "title": "Таблица"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -202,16 +191,6 @@
             }
           },
           {
-            "id": "6ca4991b3ef5352d",
-            "type": "leaf",
-            "state": {
-              "type": "iron-vault-sidebar-view",
-              "state": {},
-              "icon": "iron-vault",
-              "title": "Iron Vault"
-            }
-          },
-          {
             "id": "b5678a73b3b58103",
             "type": "leaf",
             "state": {
@@ -284,17 +263,19 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Beorg/Projects/Ямми Груп/Таблица.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
     "Beorg/GEN.md",
-    "Beorg/Projects/Мега-хит/Закрытие.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
-    "Beorg/Projects/Мега-хит/Мага-хит.md",
-    "Beorg/Accesses/RDP.md",
+    "2024-12-02.md",
     "Beorg/Projects/VelesStroi/Veles.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
-    "Beorg/Projects/Aviasales/Aviasales General.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
+    "Beorg/Projects/Мега-хит/Закрытие.md",
+    "Beorg/Projects/Мега-хит/Мага-хит.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
+    "Beorg/Accesses/RDP.md",
+    "Beorg/Projects/Aviasales/Aviasales General.md",
     "Beorg/Projects/Общее/Общее.md",
     "Beorg/API's/Убрири ТОкени.md",
     "[Beorg/Projects/VelesStroi/FAQ.md",
@@ -305,7 +286,6 @@
     "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
     "Beorg/Projects/НИОПИК/Общ..md",
     "Beorg/Projects/Ямми Груп/Тестовые доступы.md",
-    "Beorg/Projects/Ямми Груп/Таблица.md",
     "Beorg/Projects/Общее",
     "Beorg/Projects/Untitled.md",
     "Beorg/Projects/Aviasales/Ans.md",
@@ -315,7 +295,6 @@
     "[Beorg/Projects/VelesStroi",
     "[Beorg/Projects",
     "[Beorg",
-    "Beorg/Accesses/CMD.md",
     "Daily",
     "Beorg/Projects/НИОПИК/Pasted image 20240912122217.png",
     "Beorg/Projects/НИОПИК",
