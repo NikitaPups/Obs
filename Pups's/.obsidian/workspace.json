@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Мега-хит/Закрытие.md",
+                "file": "Beorg/GEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Закрытие"
+              "title": "GEN"
             }
           },
           {
@@ -262,13 +262,15 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
-    "Beorg/Projects/Мега-хит/Мага-хит.md",
+    "Beorg/Projects/Сибур/Начало.md",
     "Beorg/GEN.md",
+    "Beorg/Projects/Сибур",
+    "Beorg/Projects/Мега-хит/Закрытие.md",
+    "Beorg/Projects/Мега-хит/Мага-хит.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
     "Beorg/Projects/Общее/Общее.md",
-    "Beorg/Projects/Мега-хит/Закрытие.md",
     "Beorg/API's/Велес-строй мой токин.md",
     "Beorg/Projects/VelesStroi/Veles.md",
     "Beorg/Projects/RedOcean/ЗакрытиЁ.md",
@@ -290,7 +292,6 @@
     "Beorg/Projects/Untitled.md",
     "Beorg/Projects/Aviasales/Ans.md",
     "Beorg/Projects/Aviasales/FAQ.md",
-    "Daily/2024-10-02.md",
     "[Beorg/Projects/VelesStroi",
     "[Beorg/Projects",
     "[Beorg",
@@ -300,7 +301,6 @@
     "Beorg/Projects/VelesStroi/Схема работы.png",
     "Beorg/Projects/Ямми Груп",
     "[Beorg/Projects/RedOcean",
-    "Beorg/Projects/Red_ocean",
     "Untitled.canvas"
   ]
 }
