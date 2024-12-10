@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Accesses/RDP.md",
+                "file": "Beorg/GEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RDP"
+              "title": "GEN"
             }
           },
           {
@@ -260,18 +260,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "751b248897dbe0e0",
+  "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
-    "Beorg/API's/Велес-строй мой токин.md",
-    "Beorg/Projects/VelesStroi/Veles.md",
-    "Beorg/GEN.md",
-    "Beorg/Accesses/RDP.md",
-    "Beorg/Projects/Общее/Общее.md",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
+    "Beorg/Accesses/GOOGO.md",
     "Beorg/Projects/Сибур/Начало.md",
-    "Beorg/Projects/Сибур",
     "Beorg/Projects/Мега-хит/Закрытие.md",
     "Beorg/Projects/Мега-хит/Мага-хит.md",
+    "Beorg/GEN.md",
+    "Beorg/Accesses/RDP.md",
+    "Beorg/API's/Велес-строй мой токин.md",
+    "Beorg/Projects/VelesStroi/Veles.md",
+    "Beorg/Projects/Общее/Общее.md",
+    "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
+    "Beorg/Projects/Сибур",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
@@ -291,7 +292,6 @@
     "Beorg/Projects/Общее",
     "Beorg/Projects/Untitled.md",
     "Beorg/Projects/Aviasales/Ans.md",
-    "Beorg/Projects/Aviasales/FAQ.md",
     "[Beorg/Projects/VelesStroi",
     "[Beorg/Projects",
     "[Beorg",
