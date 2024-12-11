@@ -1,3 +1,5 @@
+# ,"SCAN_BASE64_IN_JSON_MOCK": "1"
+
 ## Gen info
 [[Велес-строй мой токин]]
 [[Reform TETS and boi]]
