@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Accesses/RDP.md",
+                "file": "Beorg/GEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RDP"
+              "title": "GEN"
             }
           },
           {
-            "id": "d6d992b5ee4a2de2",
+            "id": "47225dc81327f278",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Ямми Груп/Таблица.md",
+                "file": "Beorg/Accesses/CMD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Таблица"
+              "title": "CMD"
             }
           }
         ],
@@ -189,16 +189,6 @@
               "icon": "checkmark",
               "title": "Todo"
             }
-          },
-          {
-            "id": "b5678a73b3b58103",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-options",
-              "state": {},
-              "icon": "d20",
-              "title": "RPG Manager"
-            }
           }
         ],
         "currentTab": 1
@@ -215,25 +205,6 @@
               "state": {},
               "icon": "alarm-clock",
               "title": "Timer"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ea455302cfef1810",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b618dcc41e828945",
-            "type": "leaf",
-            "state": {
-              "type": "daily-note-outline",
-              "state": {
-                "activeSet": 0,
-                "activeGranularity": 0
-              },
-              "icon": "calendar-clock",
-              "title": "Daily Note Outline"
             }
           }
         ]
@@ -257,25 +228,32 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "rpg-manager:RPG Manager": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Beorg/Accesses/CMD.md",
+    "Beorg/Accesses/GOOGO.md",
+    "Beorg/Accesses/RDP.md",
+    "Beorg/GEN.md",
+    "Mine/a.md",
+    "Mine/Untitled Kanban 1.md",
+    "Beorg/Projects/Сибур/Начало.md",
+    "Mine/Untitled Kanban.md",
+    "Mine/a 1.md",
+    "Mine/q.md",
+    "Beorg/Projects/Ямми Груп/Таблица.md",
+    "Beorg/Projects/Сибур/Вопросы.md",
     "Beorg/Quest/1111.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
-    "Beorg/GEN.md",
     "Beorg/Projects/VelesStroi/Veles.md",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/FACKQU.md",
-    "Beorg/Projects/Сибур/Вопросы.md",
-    "Beorg/Accesses/RDP.md",
-    "Beorg/Accesses/GOOGO.md",
-    "Beorg/Accesses/CMD.md",
     "Beorg/Projects/Мега-хит/Закрытие.md",
     "Beorg/Projects/Мега-хит/Мага-хит.md",
-    "Beorg/Projects/Сибур/Начало.md",
     "Beorg/API's/Велес-строй мой токин.md",
     "Beorg/Projects/Общее/Общее.md",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
@@ -283,13 +261,7 @@
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
     "Beorg/Projects/RedOcean/ЗакрытиЁ.md",
-    "Beorg/Projects/Aviasales/Aviasales General.md",
-    "Beorg/Projects/Ямми Груп/Таблица.md",
-    "Daily/2024-12-02.md",
-    "Beorg/API's/Убрири ТОкени.md",
-    "[Beorg/Projects/VelesStroi/FAQ.md",
     "Beorg/Projects/VelesStroi/FOTO",
-    "Beorg/Projects/VelesStroi/Untitled.md",
     "Beorg/Projects/VelesStroi/FOTO/Pasted image 20241016162340.png",
     "Beorg/Projects/Общее",
     "[Beorg/Projects/VelesStroi",
