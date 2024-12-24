@@ -11,5 +11,7 @@
   "convert-url-to-iframe",
   "obsidian-git",
   "obsidian-full-calendar",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-reminder-plugin",
+  "day-planner-og"
 ]

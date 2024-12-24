@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Сибур/Начало.md",
+                "file": "Day Planners/Day Planner-20241224.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Начало"
+              "title": "Day Planner-20241224"
             }
           },
           {
@@ -169,18 +169,6 @@
             }
           },
           {
-            "id": "9ed67f1486f0ade3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of ubriri DK выгрузка"
-            }
-          },
-          {
             "id": "90f6e807776d2a9f",
             "type": "leaf",
             "state": {
@@ -191,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "94f4fc0e62dd0567",
@@ -205,6 +193,22 @@
               "state": {},
               "icon": "alarm-clock",
               "title": "Timer"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0d354dbca99f6d31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3425e2352cab11bd",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
         ]
@@ -232,8 +236,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2fbfb6231038ca67",
+  "active": "90f6e807776d2a9f",
   "lastOpenFiles": [
+    "Beorg/Projects/Сибур/Начало.md",
+    "Day Planners/Day Planner-20241224.md",
+    "Day Planners",
+    "Beorg/Accesses/CMD.md",
     "Beorg/GEN.md",
     "Beorg/Accesses/RDP.md",
     "[Beorg/Projects/VelesStroi/FAQ.md",
@@ -243,11 +251,9 @@
     "Beorg/Projects/Мега-хит/Мага-хит.md",
     "Beorg/Projects/Общее/TITLE.md",
     "Beorg/Projects/Общее/Общее.md",
-    "Beorg/Accesses/CMD.md",
     "Beorg/Accesses/GOOGO.md",
     "Mine/a.md",
     "Mine/Untitled Kanban 1.md",
-    "Beorg/Projects/Сибур/Начало.md",
     "Mine/Untitled Kanban.md",
     "Mine/a 1.md",
     "Mine/q.md",
@@ -260,19 +266,17 @@
     "Beorg/API's/Велес-строй мой токин.md",
     "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
     "Beorg/Projects/Сибур",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
     "Beorg/Projects/VelesStroi/FOTO",
     "Beorg/Projects/VelesStroi/FOTO/Pasted image 20241016162340.png",
     "Beorg/Projects/Общее",
     "[Beorg/Projects/VelesStroi",
     "[Beorg/Projects",
     "[Beorg",
-    "Daily",
+    "Day Planners/Daily",
     "Beorg/Projects/НИОПИК/Pasted image 20240912122217.png",
     "Beorg/Projects/НИОПИК",
     "Beorg/Projects/VelesStroi/Схема работы.png",
     "Beorg/Projects/Ямми Груп",
-    "[Beorg/Projects/RedOcean",
     "Untitled.canvas"
   ]
 }
