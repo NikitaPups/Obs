@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Accesses/CMD.md",
+                "file": "Beorg/Projects/Сибур/Вопросы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMD"
+              "title": "Вопросы"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -160,26 +161,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
+                "file": "Beorg/Projects/Сибур/Вопросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ubriri DK выгрузка"
-            }
-          },
-          {
-            "id": "90f6e807776d2a9f",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo"
+              "title": "Outgoing links from Вопросы"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "94f4fc0e62dd0567",
@@ -236,18 +227,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2fbfb6231038ca67",
+  "active": "47225dc81327f278",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20241228.md",
+    "Beorg/Projects/RedOcean/ЗакрытиЁ.md",
+    "Beorg/Projects/Сибур/Вопросы.md",
+    "Beorg/GEN.md",
+    "Beorg/Accesses/CMD.md",
     "Day Planners/Day Planner-20241227.md",
     "Day Planners/Day Planner-20241226.md",
-    "Beorg/GEN.md",
     "Beorg/API's/Убрири ТОкени.md",
     "Day Planners/Day Planner-20241225.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Day Planners/Day Planner-20241224.md",
     "Beorg/Projects/Сибур/Начало.md",
     "Day Planners",
-    "Beorg/Accesses/CMD.md",
     "Beorg/Accesses/RDP.md",
     "[Beorg/Projects/VelesStroi/FAQ.md",
     "Beorg/Quest/1111.md",
@@ -262,9 +256,6 @@
     "Mine/a 1.md",
     "Mine/q.md",
     "Beorg/Projects/Ямми Груп/Таблица.md",
-    "Beorg/Projects/Сибур/Вопросы.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/Сибур",
     "Beorg/Projects/VelesStroi/FOTO",
     "Beorg/Projects/VelesStroi/FOTO/Pasted image 20241016162340.png",
