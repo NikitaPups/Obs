@@ -168,6 +168,28 @@
               "icon": "links-going-out",
               "title": "Outgoing links from Вопросы"
             }
+          },
+          {
+            "id": "b5c6a9521090fd6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Beorg/Projects/Сибур/Вопросы.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Вопросы"
+            }
+          },
+          {
+            "id": "4f758ad79b647da4",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo"
+            }
           }
         ],
         "currentTab": 1
@@ -221,14 +243,23 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "rpg-manager:RPG Manager": false,
-      "periodic-notes:Open today": false,
       "obsidian-kanban:Create new board": false
     }
   },
   "active": "47225dc81327f278",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20250109.md",
+    "Day Planners/Day Planner-20250108.md",
+    "Day Planners/Day Planner-20250107.md",
+    "Day Planners/Day Planner-20250106.md",
+    "Day Planners/Day Planner-20250105.md",
+    "Day Planners/Day Planner-20250104.md",
+    "Day Planners/Day Planner-20250103.md",
+    "Day Planners/Day Planner-20250102.md",
+    "Day Planners/Day Planner-20250101.md",
+    "Day Planners/Day Planner-20241231.md",
+    "Day Planners/Day Planner-20241230.md",
+    "Day Planners/Day Planner-20241229.md",
     "Day Planners/Day Planner-20241228.md",
     "Beorg/Projects/RedOcean/ЗакрытиЁ.md",
     "Beorg/Projects/Сибур/Вопросы.md",
@@ -244,18 +275,6 @@
     "Day Planners",
     "Beorg/Accesses/RDP.md",
     "[Beorg/Projects/VelesStroi/FAQ.md",
-    "Beorg/Quest/1111.md",
-    "Beorg/Projects/Мега-хит/Закрытие.md",
-    "Beorg/Projects/Мега-хит/Мага-хит.md",
-    "Beorg/Projects/Общее/TITLE.md",
-    "Beorg/Projects/Общее/Общее.md",
-    "Beorg/Accesses/GOOGO.md",
-    "Mine/a.md",
-    "Mine/Untitled Kanban 1.md",
-    "Mine/Untitled Kanban.md",
-    "Mine/a 1.md",
-    "Mine/q.md",
-    "Beorg/Projects/Ямми Груп/Таблица.md",
     "Beorg/Projects/Сибур",
     "Beorg/Projects/VelesStroi/FOTO",
     "Beorg/Projects/VelesStroi/FOTO/Pasted image 20241016162340.png",
