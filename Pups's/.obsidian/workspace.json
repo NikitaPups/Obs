@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
+                "file": "Beorg/Projects/Сибур/Начало.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "УбРиР Ип"
+              "title": "Начало"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "УбРиР Ип"
+              "title": "Убрир ДК"
             }
           }
         ],
@@ -174,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md"
+                "file": "Beorg/Projects/Сибур/Начало.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of УбРиР Ип"
+              "title": "Outline of Начало"
             }
           },
           {
@@ -247,17 +247,19 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20250116.md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
+    "Beorg/Projects/Сибур/Начало.md",
+    "Beorg/GEN.md",
     "Day Planners/Day Planner-20250115.md",
     "Day Planners/Day Planner-20250114.md",
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
-    "Beorg/GEN.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
     "Day Planners/Day Planner-20250113.md",
     "Day Planners/Day Planner-20250112.md",
     "Day Planners/Day Planner-20250111.md",
     "Day Planners/Day Planner-20250110.md",
-    "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/Ямми Груп/Таблица.md",
     "Beorg/Projects/VelesStroi/Veles.md",
     "Beorg/Projects/VelesStroi/Zakriting.md",
@@ -272,8 +274,6 @@
     "Beorg/Projects/Сибур/Вопросы.md",
     "Day Planners/Day Planner-20250109.md",
     "Day Planners/Day Planner-20250108.md",
-    "Day Planners/Day Planner-20250107.md",
-    "Day Planners/Day Planner-20250106.md",
     "Day Planners",
     "Beorg/Projects/Сибур",
     "Beorg/Projects/VelesStroi/FOTO",
