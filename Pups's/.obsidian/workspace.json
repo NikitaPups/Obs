@@ -174,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/API's/Убрири ТОкени.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Убрири ТОкени"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -245,10 +245,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2fbfb6231038ca67",
+  "active": "751b248897dbe0e0",
   "lastOpenFiles": [
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/API's/Убрири ТОкени.md",
+    "Untitled.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/GEN.md",
     "Beorg/Accesses/RDP.md",
     "Day Planners/Day Planner-20250121.md",
@@ -272,8 +274,6 @@
     "Beorg/Projects/VelesStroi/Zakriting.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/ubriri DK выгрузка.md",
     "Beorg/Projects/VelesStroi/Untitled",
-    "Beorg/Projects/VelesStroi/VelesStroi obsh/Reform TETS and boi.md",
-    "Beorg/Projects/Ямми Груп/Закрытие.md",
     "Day Planners",
     "Beorg/Projects/Сибур",
     "Beorg/Projects/VelesStroi/FOTO",
