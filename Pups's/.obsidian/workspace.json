@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/Сибур/Начало.md",
+                "file": "Beorg/GEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Начало"
+              "title": "GEN"
             }
           },
           {
@@ -247,6 +247,7 @@
   },
   "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
+    "Beorg/Projects/Сибур/Начало.md",
     "Day Planners/Day Planner-20250127.md",
     "Day Planners/Day Planner-20250126.md",
     "Day Planners/Day Planner-20250125.md",
@@ -256,7 +257,6 @@
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Accesses/RDP.md",
-    "Beorg/Projects/Сибур/Начало.md",
     "Day Planners/Day Planner-20250124.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрир Правки и вопросы.md",
     "Day Planners/Day Planner-20250122.md",
