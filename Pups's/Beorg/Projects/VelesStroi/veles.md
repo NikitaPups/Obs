@@ -5,7 +5,7 @@
 [[Reform TETS and boi]]
 
 ---
-[[[Beorg/Projects/VelesStroi/FAQ|FAQ]]
+[[FAQ 1|FAQ 1]]
 [[FAQ reclaim]]
 ## BOI:
 
