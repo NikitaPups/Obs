@@ -25,12 +25,14 @@
             "id": "d5e70df6d0ea325b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.3"
+                "file": "Beorg/Projects/уБрИр/УбРИр ОБЩ/UBrir IP Выгрузка.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "icon": "lucide-file",
+              "title": "UBrir IP Выгрузка"
             }
           }
         ],
@@ -267,9 +269,10 @@
   },
   "active": "d5e70df6d0ea325b",
   "lastOpenFiles": [
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/GEN.md",
     "Day Planners/Day Planner-20250203.md",
     "Day Planners/Day Planner-20250131.md",
-    "Beorg/GEN.md",
     "Mine/Untitled.md",
     "Beorg/Accesses/RDP.md",
     "Day Planners/Day Planner-20250130.md",
@@ -281,7 +284,6 @@
     "Beorg/Projects/НИОПИК/Общ..md",
     "Beorg/Projects/Общее/Общее.md",
     "Beorg/Projects/Общее/TITLE.md",
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/уБрИр ДК (1119)/Убрир ДК.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УБРИР дДу.ДкП/ДДу Дкп.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/Убрир Б/Убрир Б.md",
