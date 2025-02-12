@@ -36,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -267,10 +266,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d5e70df6d0ea325b",
+  "active": "2fbfb6231038ca67",
   "lastOpenFiles": [
-    "Beorg/Projects/KYC/TK.md",
     "Beorg/Projects/KYC/Military_id.md",
+    "Beorg/Projects/KYC/TK.md",
     "Beorg/Projects/уБрИр/УбРИр ОБЩ/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/KYC/general`.md",
     "Beorg/GEN.md",
