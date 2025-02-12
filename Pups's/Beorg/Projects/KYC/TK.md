@@ -1,4 +1,4 @@
-"TK": {
+"Employment_record": {
     "Series": "Серия",
     "Number": "Номер",
     "Gender": "Пол",
@@ -12,10 +12,14 @@
     "Sign": "Подпись владельца",
     "IssuedBy": "Кем выдана ТК",
     "IssuerSignature": "Подпись, кто выдал",
-    "RecordNumber": "Запись №",
-    "OrganizationName": "Название организации",
-    "HireDate": "Дата Приема",
-    "FirelDate": "Дата Увольнения",
-    "LastPosition": "Последняя должность",
+    "Records": [
+        {
+	    "RecordNumber": "Запись №",
+	    "OrganizationName": "Название организации",
+	    "HireDate": "Дата Приема",
+	    "FirelDate": "Дата Увольнения",
+	    "LastPosition": "Последняя должность"
+	    },
+		],
     "BrokenReason": ""
 }
