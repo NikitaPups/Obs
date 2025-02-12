@@ -29,3 +29,7 @@
 	"ReleaseDecisionDate": "Дата решения освобождения от службы",  
 	"BrokenReason": ""  
 }
+
+
+
+23MNT_VNB
