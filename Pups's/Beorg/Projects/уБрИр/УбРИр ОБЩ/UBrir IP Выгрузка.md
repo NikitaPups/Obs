@@ -1,43 +1,53 @@
 \\Srvmain\Производственный отдел\Информация\Количество выгруженных анкет
 - СНИЛС
     ```sql
-    select packID, count(*) from ClientClusterUB.Questionaries q
-    where PackID in (
-    select ID from ClientClusterUB.Sets s
-    where MONTH(Date) = 3 and YEAR(Date) = 2024)
-    and
-     CampaignID = '20UB02'
-    AND JSON_EXTRACT(FinalizedData, '$.other_snils') <> ''
-    GROUP BY 1
+   SELECT packID, COUNT(*)
+FROM ClientClusterUB.Questionaries q
+WHERE PackID IN (
+    SELECT ID 
+    FROM ClientClusterUB.Sets s
+    WHERE MONTH(Date) = MONTH(CURRENT_DATE) 
+      AND YEAR(Date) = YEAR(CURRENT_DATE)   
+)
+AND CampaignID = '20UB02'
+AND JSON_EXTRACT(FinalizedData, '$.other_snils') <> ''
+GROUP BY packID;
     ```
     
 - Анкета
     ```sql
-    select packID, count(*) from ClientClusterUB.Questionaries q
-    where PackID in (
-    select ID from ClientClusterUB.Sets s
-    where MONTH(Date) = 3 and YEAR(Date) = 2024) and
-     CampaignID in ('20UB01', '20UB06', '20UB07', '20UB08', '20UB11', '20UB12', '20UB13')
-    GROUP BY 1
+    SELECT packID, COUNT(*)
+FROM ClientClusterUB.Questionaries q
+WHERE PackID IN (
+    SELECT ID 
+    FROM ClientClusterUB.Sets s
+    WHERE MONTH(Date) = MONTH(CURRENT_DATE)
+      AND YEAR(Date) = YEAR(CURRENT_DATE)
+)
+AND CampaignID IN ('20UB01', '20UB06', '20UB07', '20UB08', '20UB11', '20UB12', '20UB13')
+GROUP BY packID
     ```
     
 - Паспорт
     ```sql
-    select packID, count(*) from ClientClusterUB.Questionaries q
-    where PackID in (
-    select ID from ClientClusterUB.Sets s
-    where MONTH(Date) = 3 and YEAR(Date) = 2024)
-    and
-     CampaignID = '20UB02'
-    AND (JSON_EXTRACT(FinalizedData, '$.Number') <> '' or 
-    JSON_EXTRACT(FinalizedData, '$.Series') <> '' or
-    JSON_EXTRACT(FinalizedData, '$.LastName') <> '' or 
-    JSON_EXTRACT(FinalizedData, '$.FirstName') <> '' or 
-    JSON_EXTRACT(FinalizedData, '$.MiddleName') <> '' or 
-    JSON_EXTRACT(FinalizedData, '$.BirthDate') <> '' or 
-    JSON_EXTRACT(FinalizedData, '$.BirthPlace') <> '' or 
-    JSON_EXTRACT(FinalizedData, '$.Gender') <> '') 
-    GROUP BY 1
+    SELECT packID, COUNT(*)
+FROM ClientClusterUB.Questionaries q
+WHERE PackID IN (
+    SELECT ID 
+    FROM ClientClusterUB.Sets s
+    WHERE MONTH(Date) = MONTH(CURRENT_DATE)
+      AND YEAR(Date) = YEAR(CURRENT_DATE)
+      AND CampaignID = '20UB02'
+)
+AND JSON_EXTRACT(FinalizedData, '$.Number') <> ''
+   OR JSON_EXTRACT(FinalizedData, '$.Series') <> ''
+   OR JSON_EXTRACT(FinalizedData, '$.LastName') <> ''
+   OR JSON_EXTRACT(FinalizedData, '$.FirstName') <> ''
+   OR JSON_EXTRACT(FinalizedData, '$.MiddleName') <> ''
+   OR JSON_EXTRACT(FinalizedData, '$.BirthDate') <> ''
+   OR JSON_EXTRACT(FinalizedData, '$.BirthPlace') <> ''
+   OR JSON_EXTRACT(FinalizedData, '$.Gender') <> ''
+GROUP BY 1;
     ```
     
 - ТК
